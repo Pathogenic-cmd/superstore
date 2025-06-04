@@ -1,0 +1,21 @@
+# Ignore virtual environments
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Data folders
+data/raw/
+data/processed/
+
+# Environment/config files
+.env
