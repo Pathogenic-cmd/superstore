@@ -1,0 +1,578 @@
+Customer_ID,Segment,Total_Orders,Unprofitable_Orders,Unprofitable_Order_Percentage
+GH-14485,Corporate,2,2,100.00
+JR-15670,Consumer,2,2,100.00
+MG-18205,Corporate,1,1,100.00
+MO-17950,Consumer,2,2,100.00
+PC-19000,"Home Office",2,2,100.00
+RB-19330,Consumer,2,2,100.00
+SM-20905,Consumer,1,1,100.00
+TS-21085,Consumer,2,2,100.00
+VS-21820,Consumer,4,4,100.00
+AF-10885,Consumer,4,3,75.00
+AH-10195,Corporate,4,3,75.00
+LH-17020,Consumer,4,3,75.00
+MG-18145,Consumer,4,3,75.00
+PT-19090,Consumer,4,3,75.00
+MD-17350,Consumer,7,5,71.43
+AC-10420,Corporate,3,2,66.67
+CM-12160,Consumer,6,4,66.67
+GT-14635,Corporate,3,2,66.67
+HD-14785,"Home Office",3,2,66.67
+MG-17695,Consumer,3,2,66.67
+SJ-20215,Consumer,6,4,66.67
+AC-10660,Consumer,5,3,60.00
+DK-12985,Consumer,5,3,60.00
+HZ-14950,Consumer,5,3,60.00
+JS-15940,"Home Office",5,3,60.00
+MC-18100,Consumer,10,6,60.00
+MG-17875,"Home Office",5,3,60.00
+RA-19945,Consumer,5,3,60.00
+SS-20875,Consumer,5,3,60.00
+TP-21415,Consumer,5,3,60.00
+AS-10045,Corporate,7,4,57.14
+BP-11290,Consumer,7,4,57.14
+PW-19240,Consumer,7,4,57.14
+RO-19780,Consumer,7,4,57.14
+SW-20245,Consumer,7,4,57.14
+TS-21610,Consumer,7,4,57.14
+AB-10600,Corporate,4,2,50.00
+AG-10525,Corporate,4,2,50.00
+AG-10765,"Home Office",4,2,50.00
+AR-10345,Corporate,4,2,50.00
+BT-11440,Consumer,4,2,50.00
+CM-11935,Consumer,2,1,50.00
+CP-12340,Corporate,8,4,50.00
+CS-12490,Corporate,4,2,50.00
+DP-13165,Consumer,2,1,50.00
+DR-12940,"Home Office",8,4,50.00
+EB-13870,Consumer,10,5,50.00
+EH-14125,"Home Office",10,5,50.00
+EM-14065,Consumer,4,2,50.00
+GH-14665,Consumer,2,1,50.00
+GM-14680,Consumer,6,3,50.00
+GP-14740,Corporate,2,1,50.00
+JD-16015,Consumer,6,3,50.00
+JG-15310,Corporate,6,3,50.00
+JH-15430,Consumer,4,2,50.00
+JH-16180,Consumer,4,2,50.00
+JS-15595,Corporate,4,2,50.00
+KL-16555,Corporate,8,4,50.00
+MG-17680,"Home Office",4,2,50.00
+MM-17260,Consumer,4,2,50.00
+MT-18070,"Home Office",4,2,50.00
+NF-18475,"Home Office",4,2,50.00
+PF-19120,Consumer,4,2,50.00
+PK-18910,"Home Office",2,1,50.00
+RB-19705,"Home Office",4,2,50.00
+RD-19930,Consumer,4,2,50.00
+RH-19555,Consumer,2,1,50.00
+RR-19315,Consumer,2,1,50.00
+SS-20410,Consumer,6,3,50.00
+TH-21115,Corporate,4,2,50.00
+TP-21565,Corporate,4,2,50.00
+TS-21160,Corporate,6,3,50.00
+VT-21700,"Home Office",2,1,50.00
+JE-15745,Consumer,13,6,46.15
+ZC-21910,Consumer,13,6,46.15
+DC-12850,Consumer,9,4,44.44
+GG-14650,Corporate,9,4,44.44
+GH-14410,"Home Office",9,4,44.44
+KN-16390,Corporate,9,4,44.44
+LC-17140,Consumer,9,4,44.44
+LS-16975,"Home Office",9,4,44.44
+MH-18115,"Home Office",9,4,44.44
+ND-18370,Consumer,9,4,44.44
+AF-10870,Consumer,7,3,42.86
+AH-10120,"Home Office",7,3,42.86
+CC-12610,Corporate,7,3,42.86
+HA-14905,Consumer,7,3,42.86
+KH-16510,Consumer,7,3,42.86
+NF-18385,Consumer,7,3,42.86
+NW-18400,Consumer,7,3,42.86
+SB-20290,Corporate,7,3,42.86
+SC-20770,Corporate,7,3,42.86
+VP-21760,Corporate,7,3,42.86
+AG-10900,Consumer,10,4,40.00
+AH-10465,Consumer,5,2,40.00
+BB-10990,Corporate,5,2,40.00
+CA-12055,"Home Office",5,2,40.00
+CS-11845,Corporate,5,2,40.00
+DB-13210,Consumer,10,4,40.00
+DV-13045,Corporate,5,2,40.00
+EB-13840,Corporate,5,2,40.00
+EG-13900,Consumer,5,2,40.00
+EM-13810,Corporate,5,2,40.00
+FO-14305,Consumer,10,4,40.00
+HM-14860,Corporate,10,4,40.00
+JR-16210,Corporate,5,2,40.00
+KN-16450,Corporate,5,2,40.00
+LC-17050,Consumer,5,2,40.00
+LR-17035,Corporate,5,2,40.00
+MD-17860,Corporate,5,2,40.00
+NC-18625,Corporate,5,2,40.00
+NM-18520,Consumer,10,4,40.00
+NR-18550,Consumer,5,2,40.00
+OT-18730,Consumer,5,2,40.00
+PL-18925,"Home Office",5,2,40.00
+PO-19195,"Home Office",5,2,40.00
+RB-19570,Consumer,5,2,40.00
+SC-20020,Consumer,5,2,40.00
+SC-20575,Consumer,5,2,40.00
+SM-20320,"Home Office",5,2,40.00
+SR-20425,"Home Office",5,2,40.00
+SV-20365,Consumer,10,4,40.00
+TB-21595,Consumer,5,2,40.00
+TS-21340,Consumer,5,2,40.00
+TS-21655,Consumer,5,2,40.00
+CK-12205,Consumer,13,5,38.46
+EA-14035,Corporate,13,5,38.46
+AP-10720,"Home Office",8,3,37.50
+BH-11710,Consumer,8,3,37.50
+CB-12415,Consumer,8,3,37.50
+CJ-12010,Consumer,8,3,37.50
+DK-13375,Consumer,8,3,37.50
+JA-15970,Consumer,8,3,37.50
+LB-16795,"Home Office",8,3,37.50
+LC-16870,Consumer,8,3,37.50
+MK-17905,Corporate,8,3,37.50
+MO-17800,"Home Office",8,3,37.50
+RB-19795,"Home Office",8,3,37.50
+SV-20935,Consumer,8,3,37.50
+CS-11950,Consumer,11,4,36.36
+MY-18295,Corporate,11,4,36.36
+PO-18850,Consumer,11,4,36.36
+AB-10015,Consumer,3,1,33.33
+AS-10090,Consumer,9,3,33.33
+AT-10435,"Home Office",6,2,33.33
+BF-11275,Corporate,3,1,33.33
+BM-11575,Corporate,6,2,33.33
+BS-11590,Corporate,6,2,33.33
+BT-11395,Corporate,6,2,33.33
+BW-11065,Consumer,3,1,33.33
+CA-12265,Consumer,9,3,33.33
+CD-11980,Consumer,3,1,33.33
+CG-12520,Consumer,3,1,33.33
+CH-12070,"Home Office",3,1,33.33
+CR-12820,"Home Office",3,1,33.33
+CS-12400,"Home Office",9,3,33.33
+DD-13570,Consumer,6,2,33.33
+DF-13135,Consumer,3,1,33.33
+DH-13075,Corporate,6,2,33.33
+DK-13225,Corporate,9,3,33.33
+DP-13000,Consumer,9,3,33.33
+DP-13390,"Home Office",9,3,33.33
+DW-13195,Corporate,6,2,33.33
+EB-13705,Corporate,9,3,33.33
+EH-14185,Consumer,6,2,33.33
+EM-14200,"Home Office",3,1,33.33
+ER-13855,Corporate,3,1,33.33
+ES-14080,Corporate,9,3,33.33
+GM-14695,Corporate,3,1,33.33
+HG-14965,Corporate,12,4,33.33
+JB-15925,Consumer,3,1,33.33
+JD-16060,Consumer,3,1,33.33
+JG-15115,Consumer,3,1,33.33
+JK-16090,Consumer,3,1,33.33
+JL-15130,Consumer,6,2,33.33
+JO-15280,Consumer,6,2,33.33
+JS-16030,Consumer,6,2,33.33
+KS-16300,Corporate,3,1,33.33
+LB-16735,Consumer,3,1,33.33
+LE-16810,Consumer,6,2,33.33
+LH-16750,Consumer,3,1,33.33
+LS-17230,Consumer,3,1,33.33
+MC-17590,Corporate,6,2,33.33
+ML-17410,Consumer,6,2,33.33
+ML-18040,Corporate,3,1,33.33
+MN-17935,Consumer,6,2,33.33
+MP-18175,"Home Office",9,3,33.33
+MS-17710,Consumer,6,2,33.33
+MT-17815,Consumer,6,2,33.33
+MV-17485,Consumer,9,3,33.33
+NC-18415,Consumer,6,2,33.33
+PM-18940,Consumer,3,1,33.33
+PS-18760,Consumer,6,2,33.33
+RA-19915,Consumer,9,3,33.33
+RH-19600,Consumer,3,1,33.33
+RK-19300,Consumer,3,1,33.33
+SB-20170,Consumer,3,1,33.33
+SB-20185,Consumer,6,2,33.33
+SC-20380,Consumer,9,3,33.33
+SG-20890,Corporate,3,1,33.33
+SP-20545,Corporate,6,2,33.33
+SP-20620,Corporate,9,3,33.33
+SW-20350,"Home Office",3,1,33.33
+TB-21520,Consumer,9,3,33.33
+TB-21625,Consumer,9,3,33.33
+TC-21475,"Home Office",9,3,33.33
+TD-20995,Consumer,9,3,33.33
+TS-21505,Consumer,6,2,33.33
+NS-18640,Corporate,13,4,30.77
+AH-10075,Corporate,10,3,30.00
+FM-14215,Corporate,10,3,30.00
+JB-15400,Corporate,10,3,30.00
+JK-15730,Consumer,10,3,30.00
+JK-16120,"Home Office",10,3,30.00
+KT-16480,Consumer,10,3,30.00
+MB-17305,Consumer,10,3,30.00
+ME-17320,"Home Office",10,3,30.00
+SH-20395,Consumer,10,3,30.00
+SP-20860,Corporate,10,3,30.00
+VW-21775,Corporate,10,3,30.00
+EP-13915,Consumer,17,5,29.41
+AC-10450,Consumer,7,2,28.57
+AG-10675,Consumer,7,2,28.57
+AJ-10780,Corporate,7,2,28.57
+AW-10930,"Home Office",7,2,28.57
+BS-11755,Consumer,7,2,28.57
+DB-13120,Corporate,7,2,28.57
+DB-13555,Corporate,7,2,28.57
+DB-13660,Consumer,7,2,28.57
+DK-13090,Consumer,7,2,28.57
+DM-12955,Corporate,7,2,28.57
+DM-13015,Consumer,7,2,28.57
+DW-13585,Corporate,7,2,28.57
+EH-14005,"Home Office",7,2,28.57
+FG-14260,"Home Office",7,2,28.57
+GW-14605,Consumer,7,2,28.57
+HF-14995,Consumer,7,2,28.57
+IM-15070,Consumer,7,2,28.57
+JM-15865,Consumer,7,2,28.57
+KB-16240,Corporate,7,2,28.57
+KB-16600,Corporate,7,2,28.57
+KT-16465,Consumer,7,2,28.57
+LF-17185,Consumer,7,2,28.57
+MJ-17740,Consumer,7,2,28.57
+SC-20305,Consumer,7,2,28.57
+SC-20440,Corporate,7,2,28.57
+TB-21250,Consumer,7,2,28.57
+TN-21040,"Home Office",7,2,28.57
+TS-21205,Corporate,7,2,28.57
+Dp-13240,"Home Office",11,3,27.27
+JL-15835,Consumer,11,3,27.27
+MM-17920,Consumer,11,3,27.27
+SZ-20035,"Home Office",11,3,27.27
+WB-21850,Consumer,11,3,27.27
+AB-10165,Consumer,8,2,25.00
+AG-10495,Corporate,8,2,25.00
+AH-10690,Corporate,12,3,25.00
+AR-10825,Corporate,8,2,25.00
+AW-10840,Consumer,4,1,25.00
+BD-11320,Consumer,12,3,25.00
+BF-11005,"Home Office",4,1,25.00
+BF-11020,Corporate,8,2,25.00
+BG-11035,Consumer,8,2,25.00
+BM-11140,Consumer,4,1,25.00
+BP-11095,Corporate,12,3,25.00
+BW-11110,Corporate,8,2,25.00
+CC-12685,Consumer,4,1,25.00
+CL-11890,Consumer,4,1,25.00
+CM-12715,Corporate,4,1,25.00
+CR-12580,"Home Office",4,1,25.00
+CR-12730,Consumer,4,1,25.00
+CS-12130,Consumer,4,1,25.00
+CT-11995,Consumer,8,2,25.00
+DB-12910,"Home Office",8,2,25.00
+DB-13270,"Home Office",8,2,25.00
+DJ-13510,Corporate,8,2,25.00
+DL-13315,Consumer,8,2,25.00
+DS-13030,"Home Office",4,1,25.00
+EB-13975,Corporate,4,1,25.00
+EH-13945,Consumer,8,2,25.00
+EJ-13720,Consumer,4,1,25.00
+FH-14350,Consumer,4,1,25.00
+GD-14590,Corporate,4,1,25.00
+GH-14425,Consumer,4,1,25.00
+GT-14755,Consumer,4,1,25.00
+HA-14920,Consumer,8,2,25.00
+JC-15340,Consumer,4,1,25.00
+JF-15565,Consumer,8,2,25.00
+JS-15685,Corporate,4,1,25.00
+JW-16075,Consumer,4,1,25.00
+KC-16540,Consumer,4,1,25.00
+KC-16675,Corporate,4,1,25.00
+KM-16375,"Home Office",8,2,25.00
+LC-16885,Consumer,12,3,25.00
+LT-17110,Consumer,8,2,25.00
+MC-17575,Consumer,8,2,25.00
+MC-17635,Corporate,4,1,25.00
+ME-17725,Consumer,8,2,25.00
+ME-18010,Corporate,4,1,25.00
+MH-17440,Corporate,4,1,25.00
+MH-17620,Corporate,4,1,25.00
+MK-18160,Consumer,4,1,25.00
+MM-18055,Consumer,8,2,25.00
+MO-17500,Consumer,4,1,25.00
+MR-17545,"Home Office",4,1,25.00
+MS-17530,Consumer,4,1,25.00
+MS-17830,Consumer,4,1,25.00
+NS-18505,Consumer,4,1,25.00
+PC-18745,Corporate,4,1,25.00
+RB-19435,Consumer,8,2,25.00
+RL-19615,Consumer,8,2,25.00
+RP-19270,Corporate,4,1,25.00
+SC-20260,Corporate,8,2,25.00
+SG-20470,Consumer,8,2,25.00
+SJ-20125,"Home Office",12,3,25.00
+SM-20005,Consumer,4,1,25.00
+TA-21385,"Home Office",4,1,25.00
+TB-21175,Corporate,4,1,25.00
+TC-21295,Consumer,8,2,25.00
+TH-21235,Corporate,8,2,25.00
+BB-11545,Corporate,9,2,22.22
+BC-11125,"Home Office",9,2,22.22
+BP-11185,Corporate,9,2,22.22
+CK-12760,Corporate,9,2,22.22
+CV-12805,Corporate,9,2,22.22
+DO-13435,Consumer,9,2,22.22
+DR-12880,Corporate,9,2,22.22
+DS-13180,Corporate,9,2,22.22
+FM-14290,"Home Office",9,2,22.22
+JO-15145,Corporate,9,2,22.22
+KB-16315,Consumer,9,2,22.22
+MM-18280,Corporate,9,2,22.22
+MP-17965,Corporate,9,2,22.22
+MS-17770,Consumer,9,2,22.22
+NB-18655,Corporate,9,2,22.22
+NZ-18565,"Home Office",9,2,22.22
+ON-18715,Corporate,9,2,22.22
+RA-19285,Consumer,9,2,22.22
+SC-20050,"Home Office",9,2,22.22
+SC-20095,Consumer,9,2,22.22
+SD-20485,"Home Office",9,2,22.22
+SF-20965,Corporate,9,2,22.22
+SP-20650,Corporate,9,2,22.22
+SV-20785,Consumer,9,2,22.22
+AA-10315,Consumer,5,1,20.00
+AB-10105,Consumer,10,2,20.00
+AC-10615,Corporate,5,1,20.00
+AG-10330,Consumer,5,1,20.00
+AG-10390,Consumer,5,1,20.00
+AM-10360,Corporate,5,1,20.00
+AR-10405,Corporate,5,1,20.00
+AR-10510,Consumer,5,1,20.00
+AS-10225,Corporate,5,1,20.00
+BM-11785,Consumer,10,2,20.00
+BO-11350,Corporate,5,1,20.00
+BP-11050,Corporate,5,1,20.00
+BP-11230,Consumer,5,1,20.00
+BS-11380,Corporate,5,1,20.00
+BT-11530,"Home Office",5,1,20.00
+CB-12025,Consumer,10,2,20.00
+CC-12370,Consumer,5,1,20.00
+CK-12325,"Home Office",5,1,20.00
+CL-12700,"Home Office",5,1,20.00
+Co-12640,Consumer,5,1,20.00
+CS-12175,Corporate,5,1,20.00
+DC-13285,Consumer,5,1,20.00
+DG-13300,Corporate,5,1,20.00
+Dl-13600,Corporate,5,1,20.00
+DW-13540,Consumer,5,1,20.00
+EB-13750,Corporate,10,2,20.00
+EB-13930,Consumer,5,1,20.00
+EC-14050,Consumer,5,1,20.00
+EJ-14155,Consumer,5,1,20.00
+EM-13960,Consumer,5,1,20.00
+ES-14020,Consumer,5,1,20.00
+HG-14845,Consumer,5,1,20.00
+JB-16045,"Home Office",5,1,20.00
+JD-15790,Consumer,5,1,20.00
+JF-15295,Consumer,5,1,20.00
+JK-15205,Consumer,5,1,20.00
+JL-15175,"Home Office",5,1,20.00
+JL-15235,Consumer,5,1,20.00
+JM-15265,Corporate,5,1,20.00
+JM-15580,Consumer,5,1,20.00
+JS-15880,Consumer,5,1,20.00
+KD-16270,Consumer,5,1,20.00
+KW-16435,Consumer,5,1,20.00
+LM-17065,Consumer,5,1,20.00
+LO-17170,Corporate,5,1,20.00
+LW-16825,Corporate,5,1,20.00
+MC-17425,Corporate,5,1,20.00
+MF-17665,Corporate,5,1,20.00
+MH-18025,Consumer,5,1,20.00
+NG-18355,Corporate,5,1,20.00
+PV-18985,"Home Office",5,1,20.00
+RD-19660,"Home Office",5,1,20.00
+RD-19720,Consumer,10,2,20.00
+RE-19450,Consumer,5,1,20.00
+RW-19690,Consumer,5,1,20.00
+SA-20830,Consumer,10,2,20.00
+SJ-20500,Consumer,5,1,20.00
+TC-20980,Corporate,5,1,20.00
+TG-21310,Consumer,5,1,20.00
+TH-21100,Consumer,5,1,20.00
+TS-21430,Corporate,5,1,20.00
+VF-21715,"Home Office",5,1,20.00
+VG-21805,Corporate,5,1,20.00
+VM-21835,Consumer,5,1,20.00
+BM-11650,Corporate,11,2,18.18
+CK-12595,Consumer,11,2,18.18
+GA-14725,Consumer,11,2,18.18
+GB-14530,Corporate,11,2,18.18
+JD-15895,Corporate,11,2,18.18
+SE-20110,Consumer,11,2,18.18
+AA-10645,Consumer,6,1,16.67
+AS-10285,Corporate,6,1,16.67
+BD-11500,Consumer,6,1,16.67
+BD-11620,Consumer,6,1,16.67
+BE-11455,"Home Office",6,1,16.67
+BG-11695,Corporate,6,1,16.67
+BK-11260,Consumer,6,1,16.67
+BP-11155,Consumer,6,1,16.67
+BW-11200,Consumer,6,1,16.67
+CC-12100,"Home Office",6,1,16.67
+CC-12220,Consumer,12,2,16.67
+CM-12190,Consumer,6,1,16.67
+CM-12655,"Home Office",6,1,16.67
+CS-11860,Consumer,6,1,16.67
+CS-12505,Consumer,6,1,16.67
+DK-12835,Corporate,12,2,16.67
+DL-12925,Consumer,6,1,16.67
+EB-14110,Consumer,6,1,16.67
+EB-14170,Consumer,6,1,16.67
+EH-13990,Consumer,6,1,16.67
+JE-15475,Consumer,6,1,16.67
+JH-15820,Consumer,6,1,16.67
+JH-15985,Consumer,6,1,16.67
+JL-15505,Consumer,6,1,16.67
+JL-15850,Consumer,6,1,16.67
+JM-15250,Consumer,6,1,16.67
+KC-16255,Corporate,6,1,16.67
+KD-16345,Consumer,6,1,16.67
+KD-16495,Corporate,12,2,16.67
+KH-16360,Consumer,6,1,16.67
+KL-16645,Consumer,12,2,16.67
+LR-16915,Consumer,6,1,16.67
+LS-16945,Corporate,6,1,16.67
+LS-17200,Corporate,6,1,16.67
+MH-17290,"Home Office",6,1,16.67
+MS-17980,Corporate,6,1,16.67
+MZ-17515,Corporate,6,1,16.67
+ND-18460,Corporate,6,1,16.67
+NP-18685,"Home Office",6,1,16.67
+PA-19060,"Home Office",6,1,16.67
+PF-19165,Consumer,6,1,16.67
+RC-19825,Consumer,6,1,16.67
+RC-19960,Consumer,6,1,16.67
+RP-19390,Consumer,12,2,16.67
+SG-20605,Consumer,6,1,16.67
+SM-20950,Corporate,12,2,16.67
+SN-20560,"Home Office",6,1,16.67
+SO-20335,Consumer,6,1,16.67
+SP-20920,Consumer,6,1,16.67
+TB-21280,Consumer,6,1,16.67
+TS-21370,Corporate,6,1,16.67
+VG-21790,Consumer,6,1,16.67
+PG-18820,Consumer,13,2,15.38
+SH-19975,Corporate,13,2,15.38
+AS-10240,Consumer,7,1,14.29
+AS-10630,"Home Office",7,1,14.29
+BD-11605,Consumer,7,1,14.29
+BF-10975,Corporate,7,1,14.29
+BT-11680,Consumer,7,1,14.29
+CA-12775,Consumer,7,1,14.29
+CC-12145,Consumer,7,1,14.29
+CC-12670,Consumer,7,1,14.29
+DB-13060,Consumer,7,1,14.29
+DB-13615,Consumer,7,1,14.29
+FA-14230,Corporate,7,1,14.29
+FC-14335,Corporate,7,1,14.29
+HP-14815,"Home Office",7,1,14.29
+JB-16000,Consumer,7,1,14.29
+JE-15610,Corporate,7,1,14.29
+JF-15190,Consumer,7,1,14.29
+JH-15910,Consumer,7,1,14.29
+JM-15535,Consumer,7,1,14.29
+JP-15520,Consumer,7,1,14.29
+JW-15955,Consumer,7,1,14.29
+KA-16525,Consumer,7,1,14.29
+KH-16690,Corporate,7,1,14.29
+LP-17095,Consumer,7,1,14.29
+LW-17215,Consumer,7,1,14.29
+MB-18085,Consumer,7,1,14.29
+MG-17650,"Home Office",7,1,14.29
+MH-17785,Corporate,7,1,14.29
+MW-18220,Consumer,7,1,14.29
+PJ-19015,Consumer,7,1,14.29
+RW-19540,Corporate,7,1,14.29
+SF-20065,Consumer,7,1,14.29
+SL-20155,"Home Office",7,1,14.29
+SN-20710,"Home Office",7,1,14.29
+ST-20530,Consumer,7,1,14.29
+SU-20665,"Home Office",7,1,14.29
+TC-21535,"Home Office",7,1,14.29
+TH-21550,"Home Office",7,1,14.29
+TT-21460,"Home Office",7,1,14.29
+TW-21025,"Home Office",7,1,14.29
+VM-21685,"Home Office",7,1,14.29
+AD-10180,"Home Office",8,1,12.50
+AM-10705,Consumer,8,1,12.50
+CY-12745,Corporate,8,1,12.50
+DL-12865,Consumer,8,1,12.50
+DL-13495,Corporate,8,1,12.50
+DM-13345,Corporate,8,1,12.50
+DP-13105,Corporate,8,1,12.50
+ED-13885,"Home Office",8,1,12.50
+EM-13825,Corporate,8,1,12.50
+FH-14365,Corporate,8,1,12.50
+FP-14320,Consumer,8,1,12.50
+HW-14935,Corporate,8,1,12.50
+JD-16150,Corporate,8,1,12.50
+JK-15370,Consumer,8,1,12.50
+KE-16420,Corporate,8,1,12.50
+KH-16330,Corporate,8,1,12.50
+KN-16705,"Home Office",8,1,12.50
+LC-16930,Corporate,8,1,12.50
+MC-17275,Consumer,8,1,12.50
+MC-17605,Corporate,8,1,12.50
+MH-17455,Consumer,8,1,12.50
+PB-19150,Consumer,8,1,12.50
+PN-18775,"Home Office",8,1,12.50
+PS-18970,"Home Office",8,1,12.50
+RF-19345,Corporate,8,1,12.50
+RF-19840,Consumer,8,1,12.50
+RP-19855,Corporate,8,1,12.50
+RS-19765,Corporate,8,1,12.50
+SR-20740,"Home Office",8,1,12.50
+SS-20140,Corporate,8,1,12.50
+TM-21010,Consumer,8,1,12.50
+TT-21220,Consumer,8,1,12.50
+YS-21880,Corporate,8,1,12.50
+AH-10210,Consumer,9,1,11.11
+CC-12475,Consumer,9,1,11.11
+FM-14380,Consumer,9,1,11.11
+JC-15775,Consumer,9,1,11.11
+JP-16135,"Home Office",9,1,11.11
+LH-16900,Consumer,9,1,11.11
+LH-17155,Consumer,9,1,11.11
+MG-17890,"Home Office",9,1,11.11
+ML-17395,Corporate,9,1,11.11
+PG-18895,Consumer,9,1,11.11
+PO-19180,"Home Office",9,1,11.11
+QJ-19255,Corporate,9,1,11.11
+RD-19900,Consumer,9,1,11.11
+RW-19630,Corporate,9,1,11.11
+SF-20200,Consumer,9,1,11.11
+TP-21130,Consumer,9,1,11.11
+AI-10855,Consumer,10,1,10.00
+AP-10915,Consumer,10,1,10.00
+CC-12430,"Home Office",10,1,10.00
+FH-14275,Corporate,10,1,10.00
+GM-14500,Consumer,10,1,10.00
+JE-15715,Consumer,10,1,10.00
+MS-17365,Consumer,10,1,10.00
+SC-20695,Corporate,10,1,10.00
+BF-11170,"Home Office",11,1,9.09
+JF-15490,Consumer,11,1,9.09
+JG-15160,Consumer,11,1,9.09
+LA-16780,Corporate,11,1,9.09
+MA-17560,"Home Office",11,1,9.09
+SC-20725,Consumer,11,1,9.09
+XP-21865,Consumer,11,1,9.09
+CL-12565,Consumer,12,1,8.33
+EH-13765,Corporate,12,1,8.33
+KB-16585,Corporate,12,1,8.33
+PK-19075,Consumer,12,1,8.33
+RB-19465,"Home Office",12,1,8.33

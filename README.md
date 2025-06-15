@@ -12,6 +12,18 @@ The **Retail Sales Dashboard** is an end-to-end BI project that provides stakeho
 - Analyze regional and shipping trends
 - Demonstrate practical skills in SQL, Power BI, Excel, and Python
 
+## ❓ Research Questions
+
+- What are the total sales and profit trends over time?
+- Which products generates the most/least revenue?
+- Which customer segments are most profitable?
+- Which product categories/sub-categories are top performers?
+- Which products have negative profit margins?
+- Which shipping modes are most commonly used?
+- Is there correlation between ship mode and profit/sales?
+- Who are the most valuable customers?
+- Are there customers with consistently unprofitable orders?
+
 ## 🛠️ Tools & Technologies
 
 | Tool         | Purpose                                                                 |
@@ -111,9 +123,7 @@ WHERE `Product ID` IS NULL OR `Customer ID` IS NULL;
 - Ship Mode usage
 - Profit impact by shipping
 
-### 🔹 Page 5: Regional Trends
-- Profit heatmap by state
-- Region-level bar chart
+
 
 ## 📝 Project Contributions
 
@@ -123,17 +133,16 @@ WHERE `Product ID` IS NULL OR `Customer ID` IS NULL;
 - ✅ Implemented custom DAX metrics
 - ✅ Storyboarded insights from raw data to visualization
 
-## 📎 Screenshots
-**Executive Overview**
-![Model](/Outputs/output/dash1.png)
+## 📎 Screenshots v 2.0
+**Sales & Revenue**
+![Model](/Outputs/output/b1.png)
 **Product Insights**
-![Model](/Outputs/output/dash2.png)
+![Model](/Outputs/output/b2.png)
+**Shipping Analytics**
+![Model](/Outputs/output/b3.png)
 **Customer Analytics**
-![Model](/Outputs/output/dash3.png)
-**Shipping Analysis**
-![Model](/Outputs/output/dash4.png)
-**Regional Trends**
-![Model](/Outputs/output/dash5.png)
+![Model](/Outputs/output/b4.png)
+
 
 
 ## 📬 Contact

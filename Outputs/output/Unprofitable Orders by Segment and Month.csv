@@ -1,0 +1,145 @@
+Segment,Order_Month,Total_Orders,Unprofitable_Orders,Unprofitable_Order_Percentage
+Consumer,2014-01,22,4,18.18
+Consumer,2014-02,16,6,37.50
+Consumer,2014-03,39,9,23.08
+Consumer,2014-04,24,2,8.33
+Consumer,2014-05,42,10,23.81
+Consumer,2014-06,45,9,20.00
+Consumer,2014-07,31,6,19.35
+Consumer,2014-08,42,11,26.19
+Consumer,2014-09,72,13,18.06
+Consumer,2014-10,38,11,28.95
+Consumer,2014-11,77,23,29.87
+Consumer,2014-12,76,21,27.63
+Consumer,2015-01,12,6,50.00
+Consumer,2015-02,20,3,15.00
+Consumer,2015-03,40,5,12.50
+Consumer,2015-04,45,13,28.89
+Consumer,2015-05,34,6,17.65
+Consumer,2015-06,34,6,17.65
+Consumer,2015-07,34,11,32.35
+Consumer,2015-08,31,6,19.35
+Consumer,2015-09,65,14,21.54
+Consumer,2015-10,47,15,31.91
+Consumer,2015-11,83,20,24.10
+Consumer,2015-12,90,22,24.44
+Consumer,2016-01,20,6,30.00
+Consumer,2016-02,24,2,8.33
+Consumer,2016-03,41,16,39.02
+Consumer,2016-04,43,8,18.60
+Consumer,2016-05,62,14,22.58
+Consumer,2016-06,52,6,11.54
+Consumer,2016-07,43,4,9.30
+Consumer,2016-08,42,9,21.43
+Consumer,2016-09,94,22,23.40
+Consumer,2016-10,50,11,22.00
+Consumer,2016-11,93,14,15.05
+Consumer,2016-12,87,10,11.49
+Consumer,2017-01,39,9,23.08
+Consumer,2017-02,26,8,30.77
+Consumer,2017-03,57,10,17.54
+Consumer,2017-04,53,9,16.98
+Consumer,2017-05,63,14,22.22
+Consumer,2017-06,73,15,20.55
+Consumer,2017-07,60,14,23.33
+Consumer,2017-08,61,10,16.39
+Consumer,2017-09,120,23,19.17
+Consumer,2017-10,62,19,30.65
+Consumer,2017-11,137,30,21.90
+Consumer,2017-12,125,29,23.20
+Corporate,2014-01,7,2,28.57
+Corporate,2014-02,7,0,0.00
+Corporate,2014-03,17,5,29.41
+Corporate,2014-04,27,5,18.52
+Corporate,2014-05,18,3,16.67
+Corporate,2014-06,13,3,23.08
+Corporate,2014-07,21,4,19.05
+Corporate,2014-08,19,1,5.26
+Corporate,2014-09,34,10,29.41
+Corporate,2014-10,27,3,11.11
+Corporate,2014-11,48,9,18.75
+Corporate,2014-12,49,14,28.57
+Corporate,2015-01,12,2,16.67
+Corporate,2015-02,14,3,21.43
+Corporate,2015-03,30,4,13.33
+Corporate,2015-04,15,3,20.00
+Corporate,2015-05,23,6,26.09
+Corporate,2015-06,16,2,12.50
+Corporate,2015-07,21,3,14.29
+Corporate,2015-08,23,5,21.74
+Corporate,2015-09,49,10,20.41
+Corporate,2015-10,26,6,23.08
+Corporate,2015-11,44,7,15.91
+Corporate,2015-12,39,3,7.69
+Corporate,2016-01,19,2,10.53
+Corporate,2016-02,16,4,25.00
+Corporate,2016-03,30,6,20.00
+Corporate,2016-04,23,4,17.39
+Corporate,2016-05,30,6,20.00
+Corporate,2016-06,28,8,28.57
+Corporate,2016-07,36,7,19.44
+Corporate,2016-08,30,4,13.33
+Corporate,2016-09,59,13,22.03
+Corporate,2016-10,35,10,28.57
+Corporate,2016-11,53,10,18.87
+Corporate,2016-12,63,16,25.40
+Corporate,2017-01,16,4,25.00
+Corporate,2017-02,16,0,0.00
+Corporate,2017-03,38,7,18.42
+Corporate,2017-04,32,13,40.63
+Corporate,2017-05,37,12,32.43
+Corporate,2017-06,35,8,22.86
+Corporate,2017-07,30,3,10.00
+Corporate,2017-08,33,4,12.12
+Corporate,2017-09,64,10,15.63
+Corporate,2017-10,49,11,22.45
+Corporate,2017-11,77,20,25.97
+Corporate,2017-12,66,11,16.67
+"Home Office",2014-01,3,1,33.33
+"Home Office",2014-02,5,1,20.00
+"Home Office",2014-03,15,3,20.00
+"Home Office",2014-04,15,3,20.00
+"Home Office",2014-05,9,2,22.22
+"Home Office",2014-06,8,0,0.00
+"Home Office",2014-07,13,4,30.77
+"Home Office",2014-08,11,0,0.00
+"Home Office",2014-09,24,6,25.00
+"Home Office",2014-10,13,1,7.69
+"Home Office",2014-11,26,2,7.69
+"Home Office",2014-12,16,3,18.75
+"Home Office",2015-01,5,2,40.00
+"Home Office",2015-02,2,0,0.00
+"Home Office",2015-03,9,3,33.33
+"Home Office",2015-04,12,2,16.67
+"Home Office",2015-05,17,1,5.88
+"Home Office",2015-06,18,4,22.22
+"Home Office",2015-07,11,2,18.18
+"Home Office",2015-08,14,2,14.29
+"Home Office",2015-09,26,5,19.23
+"Home Office",2015-10,14,5,35.71
+"Home Office",2015-11,31,8,25.81
+"Home Office",2015-12,32,3,9.38
+"Home Office",2016-01,9,1,11.11
+"Home Office",2016-02,5,0,0.00
+"Home Office",2016-03,15,2,13.33
+"Home Office",2016-04,23,5,21.74
+"Home Office",2016-05,16,2,12.50
+"Home Office",2016-06,17,4,23.53
+"Home Office",2016-07,17,5,29.41
+"Home Office",2016-08,18,5,27.78
+"Home Office",2016-09,39,9,23.08
+"Home Office",2016-10,20,2,10.00
+"Home Office",2016-11,37,4,10.81
+"Home Office",2016-12,26,4,15.38
+"Home Office",2017-01,14,1,7.14
+"Home Office",2017-02,11,4,36.36
+"Home Office",2017-03,23,4,17.39
+"Home Office",2017-04,31,9,29.03
+"Home Office",2017-05,18,3,16.67
+"Home Office",2017-06,25,6,24.00
+"Home Office",2017-07,21,4,19.05
+"Home Office",2017-08,17,2,11.76
+"Home Office",2017-09,42,10,23.81
+"Home Office",2017-10,36,6,16.67
+"Home Office",2017-11,47,11,23.40
+"Home Office",2017-12,33,3,9.09

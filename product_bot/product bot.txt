@@ -1,0 +1,106 @@
+# Product Display Bot - Setup Instructions
+
+This guide will help you set up and run the Product Display Bot on either Telegram or WhatsApp.
+
+## Prerequisites
+
+- Python 3.7 or newer
+- Basic understanding of Python
+- For Telegram: A Telegram account and bot token
+- For WhatsApp: A Twilio account with WhatsApp API access
+
+## Installation Steps
+
+1. **Create a new directory for your project**:
+   ```
+   mkdir product_display_bot
+   cd product_display_bot
+   ```
+
+2. **Install required packages**:
+   ```
+   pip install python-telegram-bot twilio
+   ```
+
+3. **Create the required folder structure**:
+   ```
+   mkdir images
+   ```
+
+4. **Save the main script** as `product_bot.py`
+
+5. **Add sample product images to the `images` folder**:
+   - Place images named `headphones.jpg`, `smartwatch.jpg`, and `earbuds.jpg` in the `images` folder
+   - Or update the product catalog with your own product images
+
+## Setting Up Telegram Bot
+
+1. **Create a new Telegram bot**:
+   - Open Telegram and search for [@BotFather](https://t.me/botfather)
+   - Send the command `/newbot` and follow the instructions
+   - BotFather will give you a bot token - save this for later
+
+2. **Configure your bot**:
+   - Edit the `config.ini` file (created on first run)
+   - Replace `YOUR_TELEGRAM_BOT_TOKEN` with the token from BotFather
+
+3. **Run the bot**:
+   ```
+   python product_bot.py
+   ```
+   - Choose option 1 for Telegram
+
+4. **Test your bot**:
+   - Open Telegram and search for your bot by username
+   - Start a chat and send the command `/start`
+   - Then send `/products` to view the product catalog
+
+## Setting Up WhatsApp Bot
+
+1. **Create a Twilio account**:
+   - Sign up at [Twilio](https://www.twilio.com/)
+   - Activate and configure the WhatsApp Sandbox
+
+2. **Get your Twilio credentials**:
+   - Locate your Account SID and Auth Token in the Twilio dashboard
+   - Note your Twilio WhatsApp number
+
+3. **Configure your bot**:
+   - Edit the `config.ini` file (created on first run)
+   - Fill in your Twilio Account SID, Auth Token, and WhatsApp number
+
+4. **Important for WhatsApp image sending**:
+   For the WhatsApp bot to send images, you need to:
+   - Host your images on a publicly accessible server
+   - Update the `image_url` in the code to point to your hosted images
+   - For testing, you can use [ngrok](https://ngrok.com/) to create a temporary public URL
+
+5. **Run the bot**:
+   ```
+   python product_bot.py
+   ```
+   - Choose option 2 for WhatsApp
+   - Follow the prompts to send messages to a specific number
+
+## Customizing Product Catalog
+
+The bot creates a sample `products.json` file on first run. You can edit this file to add your own products:
+
+```json
+[
+  {
+    "id": 1,
+    "name": "Product Name",
+    "description": "Product description",
+    "price": 99.99,
+    "image_path": "images/product_image.jpg"
+  },
+  ...
+]
+```
+
+## Troubleshooting
+
+1. **Missing images**: Ensure all referenced images exist in the correct path
+2. **WhatsApp image not sending**: Verify your image URLs are publicly accessible
+3. **Authentication errors**: Double-check your API tokens and credentials

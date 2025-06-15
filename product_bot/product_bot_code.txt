@@ -1,0 +1,252 @@
+import os
+import json
+import logging
+from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
+from telegram.ext import ApplicationBuilder, CommandHandler, CallbackQueryHandler, ContextTypes
+from twilio.rest import Client
+import configparser
+
+# Set up logging
+logging.basicConfig(
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
+    level=logging.INFO
+)
+
+# Load configuration
+config = configparser.ConfigParser()
+config.read('config.ini')
+
+# Product data structure
+class ProductCatalog:
+    def __init__(self, catalog_file='products.json'):
+        self.catalog_file = catalog_file
+        self.products = self.load_catalog()
+    
+    def load_catalog(self):
+        if os.path.exists(self.catalog_file):
+            try:
+                with open(self.catalog_file, 'r') as f:
+                    return json.load(f)
+            except json.JSONDecodeError:
+                logging.error(f"Error parsing catalog file {self.catalog_file}")
+                return []
+        else:
+            # Create a sample catalog if none exists
+            sample_catalog = [
+                {
+                    "id": 1,
+                    "name": "Premium Headphones",
+                    "description": "Noise-cancelling wireless headphones",
+                    "price": 199.99,
+                    "image_path": "images/headphones.jpg"
+                },
+                {
+                    "id": 2,
+                    "name": "Smart Watch",
+                    "description": "Fitness and health tracking smartwatch",
+                    "price": 149.99,
+                    "image_path": "images/smartwatch.jpg"
+                },
+                {
+                    "id": 3,
+                    "name": "Wireless Earbuds",
+                    "description": "True wireless earbuds with charging case",
+                    "price": 89.99,
+                    "image_path": "images/earbuds.jpg"
+                }
+            ]
+            with open(self.catalog_file, 'w') as f:
+                json.dump(sample_catalog, f, indent=2)
+            
+            # Create images directory if it doesn't exist
+            if not os.path.exists('images'):
+                os.makedirs('images')
+                
+            return sample_catalog
+    
+    def get_product(self, product_id):
+        for product in self.products:
+            if product["id"] == product_id:
+                return product
+        return None
+    
+    def get_all_products(self):
+        return self.products
+
+# Telegram Bot Implementation
+class TelegramProductBot:
+    def __init__(self, token):
+        self.catalog = ProductCatalog()
+        self.app = ApplicationBuilder().token(token).build()
+        
+        # Register handlers
+        self.app.add_handler(CommandHandler("start", self.start))
+        self.app.add_handler(CommandHandler("products", self.list_products))
+        self.app.add_handler(CallbackQueryHandler(self.button_callback))
+    
+    async def start(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        await update.message.reply_text(
+            "Welcome to the Product Display Bot!\n"
+            "Type /products to see our catalog."
+        )
+    
+    async def list_products(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        products = self.catalog.get_all_products()
+        keyboard = []
+        
+        for product in products:
+            keyboard.append([
+                InlineKeyboardButton(
+                    f"{product['name']} - ${product['price']}", 
+                    callback_data=f"product_{product['id']}"
+                )
+            ])
+        
+        reply_markup = InlineKeyboardMarkup(keyboard)
+        await update.message.reply_text("Select a product to view:", reply_markup=reply_markup)
+    
+    async def button_callback(self, update: Update, context: ContextTypes.DEFAULT_TYPE):
+        query = update.callback_query
+        await query.answer()
+        
+        if query.data.startswith("product_"):
+            product_id = int(query.data.split("_")[1])
+            product = self.catalog.get_product(product_id)
+            
+            if product and os.path.exists(product["image_path"]):
+                # Send product image with caption
+                caption = f"{product['name']}\n{product['description']}\nPrice: ${product['price']}"
+                await query.message.reply_photo(
+                    photo=open(product["image_path"], 'rb'),
+                    caption=caption
+                )
+            else:
+                await query.message.reply_text(
+                    f"Product details: {product['name']}\n{product['description']}\nPrice: ${product['price']}\n\n"
+                    f"(Image not available)"
+                )
+    
+    def run(self):
+        self.app.run_polling()
+
+# WhatsApp Bot Implementation using Twilio
+class WhatsAppProductBot:
+    def __init__(self, account_sid, auth_token, from_number):
+        self.catalog = ProductCatalog()
+        self.client = Client(account_sid, auth_token)
+        self.from_number = from_number
+    
+    def send_product_image(self, to_number, product_id):
+        product = self.catalog.get_product(product_id)
+        
+        if not product:
+            self.send_message(to_number, "Product not found.")
+            return
+        
+        if os.path.exists(product["image_path"]):
+            # Create absolute path for image
+            image_url = f"https://your-domain.com/{product['image_path']}"
+            # For local testing, you'll need to expose this file via a public URL
+            # You can use services like ngrok or host the files on a public server
+            
+            # Send image with caption
+            message = self.client.messages.create(
+                body=f"{product['name']}\n{product['description']}\nPrice: ${product['price']}",
+                from_=f"whatsapp:{self.from_number}",
+                to=f"whatsapp:{to_number}",
+                media_url=[image_url]
+            )
+        else:
+            # Send text only if image not available
+            self.send_message(
+                to_number,
+                f"Product details: {product['name']}\n{product['description']}\nPrice: ${product['price']}\n\n"
+                f"(Image not available)"
+            )
+    
+    def send_message(self, to_number, message):
+        self.client.messages.create(
+            body=message,
+            from_=f"whatsapp:{self.from_number}",
+            to=f"whatsapp:{to_number}"
+        )
+    
+    def send_product_catalog(self, to_number):
+        products = self.catalog.get_all_products()
+        message = "Our Products:\n\n"
+        
+        for product in products:
+            message += f"{product['id']}. {product['name']} - ${product['price']}\n"
+        
+        message += "\nReply with the number of the product to see more details."
+        self.send_message(to_number, message)
+
+# Main execution
+def main():
+    # Create config.ini file if it doesn't exist
+    if not os.path.exists('config.ini'):
+        config = configparser.ConfigParser()
+        config['TELEGRAM'] = {
+            'TOKEN': 'YOUR_TELEGRAM_BOT_TOKEN'
+        }
+        config['WHATSAPP'] = {
+            'ACCOUNT_SID': 'YOUR_TWILIO_ACCOUNT_SID',
+            'AUTH_TOKEN': 'YOUR_TWILIO_AUTH_TOKEN',
+            'FROM_NUMBER': 'YOUR_TWILIO_PHONE_NUMBER'
+        }
+        with open('config.ini', 'w') as f:
+            config.write(f)
+        print("Created config.ini file. Please edit it with your API credentials.")
+        return
+    
+    # Load config
+    config = configparser.ConfigParser()
+    config.read('config.ini')
+    
+    # Ask user which platform to use
+    print("Which platform would you like to use?")
+    print("1. Telegram")
+    print("2. WhatsApp")
+    choice = input("Enter your choice (1 or 2): ")
+    
+    if choice == '1':
+        # Run Telegram bot
+        token = config['TELEGRAM']['TOKEN']
+        if token == 'YOUR_TELEGRAM_BOT_TOKEN':
+            print("Please set your Telegram Bot Token in config.ini file first.")
+            return
+        
+        bot = TelegramProductBot(token)
+        print("Telegram bot is running...")
+        bot.run()
+    
+    elif choice == '2':
+        # Run WhatsApp bot example
+        account_sid = config['WHATSAPP']['ACCOUNT_SID']
+        auth_token = config['WHATSAPP']['AUTH_TOKEN']
+        from_number = config['WHATSAPP']['FROM_NUMBER']
+        
+        if account_sid == 'YOUR_TWILIO_ACCOUNT_SID':
+            print("Please set your Twilio credentials in config.ini file first.")
+            return
+        
+        bot = WhatsAppProductBot(account_sid, auth_token, from_number)
+        
+        # Example of sending product catalog
+        to_number = input("Enter recipient's WhatsApp number (with country code, no +): ")
+        bot.send_product_catalog(to_number)
+        
+        while True:
+            product_id = input("Enter product ID to send (or 'q' to quit): ")
+            if product_id.lower() == 'q':
+                break
+            try:
+                bot.send_product_image(to_number, int(product_id))
+            except ValueError:
+                print("Please enter a valid product ID.")
+    
+    else:
+        print("Invalid choice. Please run the program again.")
+
+if __name__ == "__main__":
+    main()

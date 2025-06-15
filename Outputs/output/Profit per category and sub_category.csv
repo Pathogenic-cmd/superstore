@@ -1,0 +1,1001 @@
+Product_ID,Category,Sub_Category,Sales,Profit
+TEC-CO-10004722,Technology,Copiers,61599.82,25199.93
+OFF-BI-10003527,"Office Supplies",Binders,27453.38,7753.04
+TEC-CO-10001449,Technology,Copiers,18839.69,6983.88
+TEC-CO-10003763,Technology,Copiers,11619.83,4570.93
+TEC-AC-10002049,Technology,Accessories,13756.54,4425.34
+TEC-MA-10001127,Technology,Machines,18374.9,4094.98
+TEC-MA-10003979,Technology,Machines,7699.89,3772.95
+TEC-MA-10001047,Technology,Machines,14299.89,3717.97
+OFF-BI-10001120,"Office Supplies",Binders,15875.92,3345.28
+TEC-MA-10000045,Technology,Machines,6965.7,3343.54
+OFF-AP-10002945,"Office Supplies",Appliances,11304.44,3247.02
+TEC-CO-10002095,Technology,Copiers,8899.82,3124.94
+TEC-AC-10003033,Technology,Accessories,10822.36,3085.03
+TEC-CO-10001046,Technology,Copiers,8959.87,2799.96
+OFF-BI-10003925,"Office Supplies",Binders,8070.19,2518.06
+OFF-BI-10004600,"Office Supplies",Binders,7985.38,2318.34
+TEC-AC-10003870,Technology,Accessories,5609.83,2243.93
+OFF-BI-10001359,"Office Supplies",Binders,19823.48,2233.51
+TEC-AC-10001838,Technology,Accessories,5119.74,2155.89
+TEC-CO-10001766,Technology,Copiers,5669.87,2092.45
+TEC-CO-10004115,Technology,Copiers,6399.87,2064.96
+OFF-ST-10001490,"Office Supplies",Storage,8138.23,2016.71
+TEC-MA-10002927,Technology,Machines,3991.98,1995.99
+TEC-AC-10003832,Technology,Accessories,11203.76,1987.93
+TEC-CO-10002313,Technology,Copiers,5999.9,1973.97
+OFF-ST-10003208,"Office Supplies",Storage,7730.2,1932.55
+FUR-CH-10000454,Furniture,Chairs,10637.53,1927.44
+TEC-PH-10001459,Technology,Phones,13943.67,1822.76
+TEC-CO-10003236,Technology,Copiers,3959.93,1691.97
+TEC-MA-10003673,Technology,Machines,3404.5,1668.2
+OFF-AP-10000275,"Office Supplies",Appliances,5906.52,1653.83
+TEC-CO-10001571,Technology,Copiers,4399.92,1649.97
+OFF-ST-10002615,"Office Supplies",Storage,6574.54,1640.53
+TEC-PH-10002885,Technology,Phones,12996.6,1611.58
+OFF-BI-10003091,"Office Supplies",Binders,4322.81,1592.5
+OFF-ST-10000078,"Office Supplies",Storage,10925,1575.11
+FUR-CH-10004063,Furniture,Chairs,8665.19,1558.59
+FUR-CH-10002320,Furniture,Chairs,6483.8,1540.7
+OFF-LA-10003930,"Office Supplies",Labels,3322.88,1517.91
+OFF-AP-10003057,"Office Supplies",Appliances,3855.18,1503.52
+TEC-CO-10001943,Technology,Copiers,4119.79,1469.93
+TEC-MA-10000010,Technology,Machines,3040,1459.2
+TEC-AC-10004145,Technology,Accessories,7399.7,1432.44
+FUR-CH-10004086,Furniture,Chairs,8431,1388.63
+OFF-ST-10001526,"Office Supplies",Storage,5751.77,1388.61
+OFF-ST-10000142,"Office Supplies",Storage,5572.79,1380.72
+TEC-MA-10000488,Technology,Machines,9279.88,1327.98
+FUR-CH-10001854,Furniture,Chairs,8774.5,1305.65
+FUR-CH-10002073,Furniture,Chairs,5427.99,1292.13
+OFF-PA-10000994,"Office Supplies",Paper,2789.01,1262.39
+OFF-ST-10001496,"Office Supplies",Storage,6594.95,1261.33
+FUR-FU-10002937,Furniture,Furnishings,2699.06,1260.22
+OFF-ST-10003306,"Office Supplies",Storage,4600.09,1252.88
+FUR-CH-10002335,Furniture,Chairs,6936.1,1233.08
+TEC-AC-10004666,Technology,Accessories,2755.4,1184.82
+FUR-CH-10004287,Furniture,Chairs,11572.78,1179.37
+TEC-PH-10000984,Technology,Phones,4978.15,1168.1
+TEC-CO-10004202,Technology,Copiers,4859.84,1154.96
+TEC-PH-10003072,Technology,Phones,3059.8,1147.42
+OFF-ST-10001780,"Office Supplies",Storage,7515.52,1114.37
+OFF-ST-10002011,"Office Supplies",Storage,4778.77,1106.66
+TEC-PH-10002624,Technology,Phones,6109.87,1104.48
+TEC-MA-10002428,Technology,Machines,2541.84,1092.68
+OFF-BI-10004318,"Office Supplies",Binders,3234.91,1086.38
+TEC-PH-10001795,Technology,Phones,6935.86,1056.38
+FUR-CH-10003746,Furniture,Chairs,5906.03,1052.81
+OFF-BI-10004390,"Office Supplies",Binders,4209.8,1052.45
+TEC-PH-10004586,Technology,Phones,5327.26,1043.86
+TEC-PH-10000730,Technology,Phones,3999.92,1039.98
+OFF-PA-10001970,"Office Supplies",Paper,2167.35,1006.44
+TEC-AC-10004171,Technology,Accessories,2619.74,995.9
+FUR-CH-10004675,Furniture,Chairs,5212.11,972.64
+TEC-PH-10001760,Technology,Phones,2865.6,967.14
+OFF-AP-10001058,"Office Supplies",Appliances,4476.96,956.95
+FUR-CH-10001215,Furniture,Chairs,12975.38,951.86
+OFF-PA-10000357,"Office Supplies",Paper,2141.63,947.53
+TEC-PH-10003012,Technology,Phones,4434.91,936.26
+FUR-CH-10003379,Furniture,Chairs,7979.44,926.18
+TEC-PH-10002496,Technology,Phones,4180.53,904.74
+TEC-PH-10000895,Technology,Phones,6227.65,899.95
+TEC-PH-10001494,Technology,Phones,4619.23,896.85
+TEC-AC-10004571,Technology,Accessories,2339.77,889.91
+TEC-AC-10000990,Technology,Accessories,2098.88,881.53
+TEC-MA-10000984,Technology,Machines,7834.4,881.37
+TEC-PH-10001835,Technology,Phones,2022.27,872.1
+FUR-CH-10000595,Furniture,Chairs,5697.76,870.16
+FUR-CH-10004495,Furniture,Chairs,6410.87,854.78
+OFF-PA-10004359,"Office Supplies",Paper,1887.3,851.38
+TEC-CO-10000971,Technology,Copiers,4199.86,839.97
+TEC-PH-10004977,Furniture,Furnishings,5291.73,838.84
+FUR-CH-10000988,Furniture,Chairs,5294.46,833.6
+FUR-CH-10002331,Furniture,Chairs,7582.37,832.99
+FUR-CH-10000015,Furniture,Chairs,6584.64,814.42
+FUR-CH-10000785,Furniture,Chairs,6008.54,785.45
+TEC-PH-10004165,Technology,Phones,7699.72,780.97
+FUR-BO-10002545,Furniture,Chairs,7539.71,780.33
+FUR-CH-10003973,Furniture,Chairs,9070.94,773.26
+TEC-AC-10002001,Technology,Accessories,2879.82,763.15
+OFF-BI-10000545,"Office Supplies",Binders,19024.5,760.98
+OFF-PA-10000100,"Office Supplies",Paper,1696.99,756.27
+TEC-AC-10003174,Technology,Accessories,2242.03,754.53
+FUR-CH-10000847,Furniture,Chairs,4626.58,750.73
+OFF-PA-10000418,"Office Supplies",Paper,1782.45,746.53
+TEC-PH-10004539,Technology,Phones,4044.39,733.28
+OFF-PA-10000675,"Office Supplies",Paper,1565.82,729.62
+TEC-AC-10003911,Technology,Accessories,2623.84,723.15
+TEC-AC-10001432,Technology,Accessories,1641.15,722.11
+TEC-AC-10001908,Technology,Accessories,2799.72,719.93
+OFF-AP-10003849,"Office Supplies",Appliances,5009.48,715.64
+TEC-PH-10002834,Technology,Phones,3815.79,710.96
+OFF-PA-10003395,"Office Supplies",Paper,1740.51,704.59
+FUR-CH-10001394,Furniture,Chairs,5861.53,701.98
+TEC-AC-10003095,Technology,Accessories,2157.83,699.35
+OFF-AP-10003590,"Office Supplies",Appliances,3051.3,697.44
+FUR-CH-10000309,Furniture,Chairs,6084.14,697.14
+OFF-ST-10000585,"Office Supplies",Storage,3138.8,693.84
+OFF-BI-10003656,"Office Supplies",Binders,4181.75,693.56
+TEC-AC-10000844,Technology,Accessories,2362.72,676.52
+TEC-PH-10002103,Technology,Phones,3158.06,654.17
+TEC-MA-10004212,Technology,Machines,1379.92,648.56
+TEC-AC-10004469,Technology,Accessories,1574.03,634.41
+OFF-EN-10000056,"Office Supplies",Envelopes,1555.75,632.26
+TEC-AC-10003198,Technology,Accessories,2450.16,630.47
+FUR-FU-10003664,"Office Supplies",Envelopes,2863.8,627.17
+TEC-AC-10000892,Technology,Accessories,1890,622.8
+OFF-PA-10001033,"Office Supplies",Paper,1434.65,619.36
+FUR-TA-10001307,Furniture,Tables,3739.12,608.04
+TEC-PH-10003601,Technology,Phones,1979.88,593.96
+TEC-PH-10002114,Technology,Phones,2279.96,592.79
+TEC-AC-10004975,Technology,Accessories,1913.13,587.13
+TEC-PH-10002310,Technology,Phones,3168.61,581.65
+OFF-AP-10002118,"Office Supplies",Art,2706.08,578.68
+TEC-PH-10001557,Technology,Phones,3590.03,576.9
+TEC-PH-10003645,Technology,Phones,3684.71,575.33
+OFF-PA-10003228,"Office Supplies",Paper,1222.75,574.69
+FUR-CH-10000665,Furniture,Chairs,3955.68,573.72
+TEC-PH-10001336,Technology,Phones,3044.16,571.43
+OFF-EN-10003296,"Office Supplies",Envelopes,1266.72,570.02
+FUR-FU-10004665,Furniture,Furnishings,2191.68,569.84
+OFF-BI-10001718,"Office Supplies",Binders,2264.89,569.42
+FUR-BO-10004695,Furniture,Bookcases,4886.46,566.47
+OFF-AP-10000891,"Office Supplies",Appliances,2491.28,563.82
+OFF-BI-10001071,"Office Supplies",Binders,1573.91,562.38
+OFF-EN-10003001,"Office Supplies",Envelopes,1360.48,559.31
+TEC-AC-10002926,Technology,Accessories,1409.72,554.89
+OFF-AP-10001005,"Office Supplies",Appliances,1761.76,549.76
+TEC-PH-10003691,Technology,Phones,3099.35,548.06
+OFF-PA-10001289,"Office Supplies",Paper,1279.08,547.68
+OFF-PA-10001878,"Office Supplies",Paper,1320.57,542.9
+FUR-TA-10004619,Furniture,Tables,3775.65,541.65
+TEC-AC-10000736,Technology,Accessories,1615.8,540.73
+TEC-PH-10001944,Technology,Phones,2481.15,540.02
+OFF-ST-10003805,"Office Supplies",Storage,3537.24,536.9
+TEC-AC-10003628,Technology,Accessories,1409.53,536.22
+OFF-PA-10000806,"Office Supplies",Paper,1097.21,526.21
+OFF-LA-10003510,"Office Supplies",Labels,1233.41,524.51
+TEC-PH-10001578,Technology,Phones,3968.51,518.34
+TEC-AC-10003610,Technology,Accessories,1139.81,515.91
+TEC-PH-10001817,Technology,Phones,8878.4,515.52
+TEC-AC-10002567,Technology,Accessories,1999.75,515.14
+TEC-AC-10002800,Technology,Accessories,1619.68,514.9
+OFF-EN-10002230,"Office Supplies",Envelopes,1359.67,514.49
+FUR-CH-10000155,Furniture,Chairs,3528.79,514.37
+TEC-PH-10001363,Technology,Phones,4901.91,512.99
+OFF-ST-10001932,"Office Supplies",Storage,4829.25,509.97
+TEC-MA-10004002,Technology,Machines,5787.36,509.71
+FUR-CH-10004218,Technology,Phones,3150.58,499.85
+TEC-AC-10002842,Technology,Accessories,3998.4,499.8
+FUR-CH-10002084,Furniture,Chairs,2705.78,499.34
+TEC-AC-10001606,Technology,Accessories,1799.82,497.95
+OFF-PA-10003302,"Office Supplies",Paper,1098.64,497.58
+OFF-BI-10003650,"Office Supplies",Binders,6785.14,494.42
+FUR-CH-10004853,Furniture,Chairs,2959.21,493.7
+OFF-PA-10004071,"Office Supplies",Paper,1098.5,492.66
+OFF-BI-10004519,"Office Supplies",Binders,2954.44,489.64
+FUR-CH-10002602,Furniture,Chairs,4619.99,486.16
+OFF-ST-10004340,"Office Supplies",Storage,2300.66,485
+TEC-AC-10002402,Technology,Accessories,2159.73,479.94
+TEC-PH-10000441,Technology,Phones,2746.58,478.76
+OFF-AP-10000938,"Office Supplies",Appliances,2221.56,476.63
+TEC-PH-10002447,"Office Supplies",Storage,1936.31,473.78
+OFF-ST-10000046,"Office Supplies",Storage,4006.44,473.34
+TEC-PH-10004094,Technology,Phones,4211.73,467.97
+OFF-PA-10000474,"Office Supplies",Paper,1105.73,467.1
+TEC-MA-10000864,Technology,Machines,4268,466.4
+TEC-MA-10003183,Technology,Machines,1343.92,463.97
+OFF-PA-10001815,"Office Supplies",Paper,960.8,461.18
+FUR-TA-10003569,Furniture,Tables,6776.56,461.13
+OFF-AP-10002651,"Office Supplies",Appliances,6832.91,460.35
+OFF-PA-10000482,"Office Supplies",Paper,1016.79,453.76
+OFF-BI-10002867,"Office Supplies",Binders,1291.25,451.94
+FUR-FU-10000965,Furniture,Furnishings,1184.23,448.76
+FUR-TA-10003748,Furniture,Tables,4332.25,448.16
+OFF-AR-10000380,"Office Supplies",Art,1617.95,448.16
+TEC-PH-10002584,Technology,Phones,6134.7,438.19
+FUR-FU-10004864,Furniture,Furnishings,1834.81,436.44
+TEC-PH-10002726,"Office Supplies",Binders,1112.79,430.42
+FUR-TA-10000617,Furniture,Tables,4334.83,430.07
+OFF-ST-10003716,"Office Supplies",Storage,9630.86,429.79
+TEC-AC-10000420,Technology,Accessories,1399.8,429.74
+FUR-CH-10001708,Furniture,Chairs,3989.73,425.76
+TEC-PH-10004447,Technology,Phones,3613.74,425.31
+OFF-PA-10001497,"Office Supplies",Paper,956.3,423.74
+TEC-PH-10002922,Technology,Phones,2906.63,422.48
+OFF-EN-10001453,"Office Supplies",Envelopes,939.09,421.98
+OFF-ST-10003816,"Office Supplies",Storage,3946.66,419.33
+TEC-PH-10000526,Technology,Phones,2630.13,418.52
+OFF-AP-10000179,"Office Supplies",Appliances,1320.17,417.02
+OFF-PA-10002377,"Office Supplies",Paper,1004.65,415.28
+OFF-ST-10000036,"Office Supplies",Storage,1857.25,414.92
+FUR-CH-10004626,Furniture,Chairs,1947.18,413.65
+OFF-BI-10003718,"Office Supplies",Binders,1180.7,413.25
+TEC-PH-10001619,Technology,Phones,1803.11,411.58
+TEC-AC-10002473,Technology,Accessories,1231.69,411.23
+FUR-BO-10002916,Furniture,Bookcases,2487.76,410.35
+TEC-AC-10004659,Technology,Accessories,1926.94,408.74
+OFF-PA-10001125,"Office Supplies",Paper,1102.89,404.29
+OFF-AP-10002684,"Office Supplies",Appliances,3039.5,401.21
+OFF-PA-10003641,"Office Supplies",Paper,970.78,400.98
+TEC-AC-10002253,Technology,Accessories,2659.84,398.98
+TEC-PH-10002660,Technology,Phones,1876.52,397.74
+TEC-MA-10002859,Technology,Machines,917.9,393.26
+OFF-ST-10000689,"Office Supplies",Storage,4479.03,388.75
+TEC-PH-10003505,Technology,Phones,3415.04,384.19
+OFF-AP-10000828,"Office Supplies",Appliances,3511.01,383.68
+OFF-AP-10002311,"Office Supplies",Appliances,1383.08,381.21
+OFF-PA-10000062,"Office Supplies",Paper,857.38,380.87
+OFF-AP-10004487,"Office Supplies",Appliances,2488.39,380.58
+TEC-AC-10001539,Technology,Accessories,1247.84,377.55
+TEC-PH-10000673,Technology,Phones,1221.81,376.94
+OFF-AP-10000576,"Office Supplies",Appliances,2010.85,376.49
+OFF-PA-10001144,"Office Supplies",Paper,865.49,375.04
+OFF-AP-10001394,"Office Supplies",Appliances,1946.7,374.22
+OFF-BI-10002735,"Office Supplies",Binders,1073.9,364.72
+FUR-BO-10002598,Furniture,Bookcases,1320.23,362.71
+TEC-PH-10002352,Technology,Phones,1394.95,362.69
+FUR-FU-10003192,Furniture,Furnishings,1545.82,362.47
+TEC-AC-10000474,Technology,Accessories,1690.82,360.96
+TEC-MA-10004241,Technology,Machines,1286.85,360.32
+TEC-AC-10001990,Technology,Accessories,1703.72,357.54
+OFF-PA-10000157,"Office Supplies",Paper,767.23,354.25
+FUR-TA-10003392,Furniture,Tables,3540.35,354.03
+OFF-PA-10002254,"Office Supplies",Paper,881.09,354.02
+TEC-PH-10002200,Technology,Phones,7437.89,353.79
+OFF-BI-10002026,"Office Supplies",Binders,2068.82,349.63
+FUR-FU-10004188,Furniture,Furnishings,1329.9,345.77
+FUR-CH-10004983,Furniture,Chairs,4185.48,342.89
+TEC-PH-10001128,Technology,Phones,2609.83,341.98
+FUR-FU-10002253,Furniture,Furnishings,1047.74,340.51
+TEC-PH-10003273,Technology,Phones,1738.66,340.17
+TEC-PH-10002415,Technology,Phones,3657.38,339.19
+FUR-CH-10001270,Furniture,Chairs,2389.12,336.38
+TEC-PH-10000455,Technology,Phones,1159.9,336.37
+OFF-PA-10003039,"Office Supplies",Paper,879.83,334.58
+OFF-BI-10000632,"Office Supplies",Binders,1219.82,329.05
+OFF-BI-10000977,"Office Supplies",Binders,1100.48,328.93
+OFF-PA-10003892,Furniture,Chairs,743.43,328.68
+TEC-PH-10002033,Technology,Phones,2221.6,324.69
+TEC-PH-10004536,Technology,Phones,1538.89,323.98
+FUR-FU-10004091,Furniture,Furnishings,1117.43,322.95
+OFF-PA-10003129,"Office Supplies",Paper,684.74,321.83
+TEC-AC-10001465,Technology,Accessories,1184.03,319.62
+FUR-FU-10000308,Furniture,Furnishings,1579.37,318.36
+TEC-PH-10000369,Technology,Phones,2041.04,317.49
+TEC-PH-10003484,Technology,Phones,2015.84,314.98
+FUR-FU-10004306,Furniture,Furnishings,2759.06,314.77
+OFF-PA-10001954,"Office Supplies",Paper,721.74,314.74
+TEC-PH-10002563,Technology,Phones,1990.64,312.46
+FUR-TA-10001771,Furniture,Tables,3603.29,311.82
+FUR-FU-10001185,Furniture,Furnishings,822.74,311.77
+OFF-AP-10003779,"Office Supplies",Appliances,1473.11,311.22
+FUR-BO-10000362,Furniture,Bookcases,2154.35,311.18
+OFF-AR-10002135,"Office Supplies",Art,1166.44,310.89
+OFF-EN-10001434,"Office Supplies",Envelopes,632.52,309.93
+OFF-PA-10001357,"Office Supplies",Paper,651.44,302.73
+TEC-PH-10001819,Technology,Phones,746.83,302.33
+OFF-LA-10002762,Furniture,Furnishings,639.03,300.34
+TEC-PH-10004345,Technology,Phones,2063.14,299.88
+OFF-EN-10003055,"Office Supplies",Envelopes,783.61,299.85
+OFF-AP-10004540,"Office Supplies",Appliances,1042.08,291.78
+OFF-AP-10002734,"Office Supplies",Appliances,675.12,290.3
+FUR-FU-10000576,Furniture,Furnishings,3861.06,289.58
+FUR-FU-10001979,Furniture,Furnishings,1114.38,288.43
+OFF-ST-10001272,"Office Supplies",Storage,1465.74,287.91
+TEC-AC-10001109,Technology,Accessories,773.74,286.7
+OFF-PA-10001736,"Office Supplies",Paper,623.74,285.65
+TEC-PH-10004389,Technology,Phones,1310.3,284.74
+OFF-BI-10001989,"Office Supplies",Binders,753.18,284.07
+FUR-CH-10004477,Furniture,Chairs,2185.95,283.75
+FUR-CH-10004997,Furniture,Chairs,6748.48,281.97
+OFF-BI-10001543,"Office Supplies",Binders,842.17,280.72
+TEC-AC-10001772,Technology,Accessories,718.65,280.27
+OFF-PA-10004327,"Office Supplies",Paper,603.54,279.74
+OFF-PA-10004475,"Office Supplies",Paper,615.55,279.2
+OFF-PA-10002923,"Office Supplies",Paper,597.07,278.96
+OFF-ST-10002974,"Office Supplies",Storage,1193.82,278.85
+OFF-ST-10003282,Technology,Accessories,1051.78,277.29
+TEC-PH-10001079,Technology,Phones,1903.84,276.06
+TEC-PH-10001530,Technology,Phones,8111.14,275.33
+TEC-AC-10004353,Technology,Accessories,1108.8,275.31
+OFF-EN-10002831,"Office Supplies",Envelopes,610.98,274.94
+TEC-PH-10004042,Technology,Phones,1685.29,273.46
+OFF-PA-10004039,"Office Supplies",Paper,615.78,273.18
+TEC-PH-10004120,Technology,Phones,1589.08,271.24
+TEC-MA-10004552,Technology,Machines,1035.8,269.31
+FUR-CH-10002965,Furniture,Chairs,5989.2,267.3
+FUR-FU-10001290,Furniture,Furnishings,867.26,266.07
+OFF-ST-10000675,"Office Supplies",Storage,1125.15,260.95
+OFF-PA-10002222,"Office Supplies",Paper,593.84,260.83
+OFF-BI-10002082,"Office Supplies",Binders,1041.66,259.58
+TEC-PH-10003811,Technology,Phones,2159.82,259.18
+OFF-ST-10001837,"Office Supplies",Storage,1240.04,259.13
+OFF-PA-10002319,"Office Supplies",Paper,573.65,257.37
+FUR-FU-10001215,Furniture,Furnishings,681.45,256.19
+TEC-AC-10000109,Technology,Accessories,1489.33,255.31
+OFF-PA-10003790,"Office Supplies",Paper,575.57,254.89
+FUR-CH-10004875,Furniture,Chairs,1501.9,254.82
+OFF-ST-10000877,"Office Supplies",Storage,1072.63,254.33
+FUR-CH-10002439,Furniture,Chairs,1589.41,253.84
+TEC-PH-10002555,Technology,Phones,2744.87,253.77
+TEC-PH-10000486,Technology,Phones,2227.01,250.54
+FUR-FU-10003553,Furniture,Furnishings,949.03,247.57
+FUR-CH-10003817,Furniture,Chairs,2204.86,246
+OFF-PA-10002581,"Office Supplies",Paper,755.91,244.74
+FUR-FU-10000277,Furniture,Furnishings,1685.44,244.39
+OFF-LA-10001474,"Office Supplies",Labels,573.96,244.24
+OFF-LA-10003923,"Office Supplies",Labels,518,244.2
+TEC-PH-10001580,Technology,Phones,1916.72,241.61
+OFF-AP-10001271,"Office Supplies",Appliances,948.23,241.14
+OFF-PA-10003656,"Office Supplies",Paper,538.15,239
+OFF-PA-10004353,"Office Supplies",Paper,527.47,236.56
+OFF-PA-10001790,"Office Supplies",Paper,586.09,236.36
+OFF-PA-10002120,"Office Supplies",Paper,516.62,236.33
+OFF-AP-10001391,"Office Supplies",Appliances,812.16,235.53
+FUR-FU-10004848,"Office Supplies",Envelopes,1438.13,235.14
+OFF-BI-10004492,"Office Supplies",Binders,669.5,234.32
+FUR-CH-10002647,Furniture,Chairs,3641.27,234.23
+OFF-ST-10000532,"Office Supplies",Storage,1115.92,233.19
+FUR-CH-10000749,Furniture,Chairs,2207.96,231.65
+FUR-BO-10000711,Furniture,Bookcases,851.76,229.98
+TEC-PH-10001061,Technology,Phones,1339.87,229.98
+TEC-PH-10001750,Technology,Phones,1385.79,229.65
+OFF-AP-10002518,"Office Supplies",Appliances,2883.28,229.59
+FUR-CH-10001891,Furniture,Chairs,1420.5,229.39
+TEC-PH-10004434,Technology,Phones,1386.69,228.4
+TEC-AC-10003399,Technology,Accessories,543.6,228.31
+OFF-EN-10002504,"Office Supplies",Envelopes,570.78,225.05
+OFF-EN-10004483,"Office Supplies",Envelopes,488.9,223.14
+FUR-FU-10004017,Furniture,Furnishings,1264.58,222.88
+OFF-ST-10002292,"Office Supplies",Storage,1706.51,222.59
+OFF-PA-10000659,"Office Supplies",Paper,501.39,221.84
+TEC-PH-10000215,Technology,Phones,908.7,219.84
+TEC-MA-10004626,Technology,Machines,600,218.4
+TEC-PH-10000011,Technology,Phones,571.71,218.29
+OFF-PA-10000176,"Office Supplies",Paper,512.19,216.26
+OFF-BI-10001597,"Office Supplies",Binders,1217.11,215.55
+TEC-AC-10003590,Technology,Accessories,626.54,212.3
+TEC-AC-10001714,Technology,Accessories,789.82,211.82
+TEC-PH-10002275,Technology,Phones,2116.69,211.67
+OFF-BI-10000666,"Office Supplies",Binders,653.98,210.86
+FUR-TA-10001705,Furniture,Tables,3401.6,210.47
+TEC-PH-10003885,Technology,Phones,910.66,207.87
+OFF-AP-10001205,"Office Supplies",Appliances,1776.05,207.02
+FUR-BO-10003404,Furniture,Bookcases,3447.84,206.87
+OFF-AR-10001953,"Office Supplies",Art,1073.11,206.27
+OFF-ST-10003058,"Office Supplies",Storage,709.5,205.75
+OFF-PA-10001019,"Office Supplies",Paper,543.46,204.6
+FUR-CH-10003761,Furniture,Chairs,969.25,204.33
+TEC-PH-10001425,Technology,Phones,1583.8,201.57
+OFF-AP-10001154,"Office Supplies",Appliances,515.79,201.16
+OFF-ST-10003123,"Office Supplies",Storage,858.88,201.07
+OFF-PA-10004243,"Office Supplies",Paper,417.34,200.32
+OFF-PA-10003134,"Office Supplies",Paper,499.62,199.85
+OFF-ST-10000604,"Office Supplies",Paper,980.23,198.13
+OFF-ST-10003442,"Office Supplies",Paper,899.3,197.39
+FUR-FU-10001861,Furniture,Furnishings,434.56,197.1
+OFF-EN-10004773,"Office Supplies",Envelopes,433.72,196.72
+TEC-AC-10000358,Technology,Accessories,888.97,196.03
+TEC-PH-10003095,Technology,Phones,491.68,195.36
+OFF-PA-10003823,"Office Supplies",Paper,501.88,195.17
+TEC-PH-10003215,Technology,Phones,467.22,192.28
+FUR-FU-10003535,Furniture,Furnishings,531.95,192.21
+TEC-MA-10004458,Technology,Machines,396,190.08
+TEC-AC-10003116,Technology,Accessories,536.05,189.57
+OFF-AP-10001293,"Office Supplies",Appliances,1073.68,188.51
+OFF-PA-10000241,"Office Supplies",Paper,458.5,185.88
+OFF-ST-10001476,"Office Supplies",Storage,937.46,185.72
+OFF-PA-10001977,"Office Supplies",Paper,443.84,184.19
+TEC-AC-10001114,Technology,Accessories,591.85,183.95
+FUR-FU-10000629,"Office Supplies",Paper,455.07,183.13
+OFF-PA-10000167,"Office Supplies",Paper,489.48,182.78
+OFF-BI-10003364,"Office Supplies",Binders,667.99,182.6
+OFF-ST-10003470,"Office Supplies",Storage,6819.31,181.66
+TEC-AC-10000023,Technology,Accessories,503.28,181.18
+FUR-FU-10000076,Furniture,Furnishings,487.51,180.02
+TEC-MA-10000112,Technology,Machines,2396.4,179.73
+FUR-FU-10001876,Furniture,Furnishings,636.61,179.29
+TEC-PH-10004908,Technology,Phones,1665.8,178.48
+TEC-PH-10002468,Technology,Phones,1468.69,178.15
+OFF-EN-10000927,Furniture,Chairs,552.71,177.66
+TEC-MA-10001031,Technology,Machines,506.28,177.2
+FUR-FU-10001473,Furniture,Furnishings,839.68,176.32
+OFF-PA-10004381,"Office Supplies",Paper,422.75,172.94
+FUR-FU-10003708,"Office Supplies",Binders,1322.17,172.25
+OFF-PA-10004092,"Office Supplies",Paper,342.58,171.29
+TEC-PH-10003589,Technology,Phones,442.55,171.26
+FUR-CH-10001797,Furniture,Chairs,881.19,170.85
+OFF-AP-10002578,"Office Supplies",Appliances,929.48,169.26
+OFF-PA-10001295,"Office Supplies",Paper,405.96,169.21
+OFF-AP-10001124,"Office Supplies",Appliances,647.84,168.44
+TEC-PH-10002890,Technology,Phones,1339.1,167.39
+OFF-AP-10001469,"Office Supplies",Appliances,759.12,166.84
+FUR-FU-10002045,Furniture,Furnishings,377.91,166.28
+OFF-LA-10004544,"Office Supplies",Labels,372.96,165.76
+TEC-PH-10004614,Technology,Phones,1614.6,165.6
+OFF-AR-10000937,"Office Supplies",Art,431.29,165.21
+OFF-EN-10002500,"Office Supplies",Envelopes,375.73,164.86
+TEC-PH-10001468,Technology,Phones,546.06,163.82
+TEC-PH-10003171,Technology,Phones,746.17,163.62
+OFF-BI-10003876,"Office Supplies",Binders,569.24,162.64
+TEC-PH-10002549,Technology,Phones,3839.62,162.62
+OFF-AP-10000240,"Office Supplies",Appliances,770.11,162.58
+TEC-PH-10002170,Technology,Phones,1119.84,162.38
+FUR-FU-10002878,Furniture,Furnishings,467.07,162.05
+OFF-LA-10001074,"Office Supplies",Labels,421.01,162.01
+TEC-AC-10001013,Technology,Accessories,533.08,160.22
+OFF-PA-10000483,"Office Supplies",Paper,415.13,159.55
+OFF-BI-10001765,"Office Supplies",Binders,554.24,157.96
+TEC-PH-10002538,Technology,Phones,803.69,157.71
+OFF-PA-10004530,"Office Supplies",Paper,321.44,157.51
+TEC-AC-10004568,Technology,Accessories,1086.01,156.46
+OFF-PA-10003441,"Office Supplies",Paper,334.37,155.78
+OFF-AR-10002987,"Office Supplies",Art,436.48,155.55
+FUR-CH-10003199,Furniture,Chairs,1842.27,155.37
+TEC-PH-10001305,Technology,Phones,1283.54,154.81
+OFF-PA-10000595,"Office Supplies",Paper,351.74,154.4
+TEC-PH-10002680,Technology,Phones,2155.9,153.99
+OFF-AR-10004010,"Office Supplies",Art,671.81,153.96
+OFF-ST-10000060,"Office Supplies",Storage,2612.2,153.35
+TEC-PH-10004531,Technology,Phones,1041.81,153.31
+TEC-MA-10002981,Technology,Machines,350.97,152.09
+OFF-ST-10003692,"Office Supplies",Storage,1053.03,151.66
+FUR-CH-10003606,Furniture,Chairs,705.32,151.32
+OFF-EN-10001335,"Office Supplies",Envelopes,336.95,150.97
+TEC-AC-10001284,Technology,Accessories,469.4,150.37
+OFF-AR-10003373,"Office Supplies",Art,873.64,149.94
+OFF-EN-10004206,"Office Supplies",Envelopes,325.86,149.9
+OFF-ST-10000777,"Office Supplies",Storage,611.71,149.53
+TEC-AC-10002647,Technology,Accessories,383.04,148.96
+FUR-FU-10001488,Furniture,Furnishings,2267.97,148.37
+FUR-FU-10003930,Furniture,Furnishings,786.9,147.94
+FUR-BO-10001519,Furniture,Bookcases,1119.2,147.09
+OFF-BI-10001670,"Office Supplies",Binders,901.03,147.03
+OFF-AP-10002457,"Office Supplies",Appliances,1674.4,146.51
+TEC-PH-10000576,Technology,Phones,1945.26,145.21
+FUR-FU-10004018,Furniture,Furnishings,536.04,144.73
+TEC-PH-10004241,Technology,Phones,1439.97,144
+TEC-AC-10001267,Technology,Accessories,467.22,143.76
+OFF-AP-10003842,"Office Supplies",Appliances,693.95,143.75
+TEC-PH-10002483,Technology,Phones,1631.95,142.8
+OFF-PA-10003127,"Office Supplies",Paper,327.11,141.92
+OFF-PA-10003625,"Office Supplies",Paper,328.39,140.96
+OFF-AR-10003903,"Office Supplies",Art,565.39,140.94
+TEC-MA-10003246,Technology,Machines,447.97,139.99
+TEC-MA-10003626,Technology,Machines,1396.21,139.62
+FUR-CH-10003846,Furniture,Chairs,1242.05,139.35
+OFF-EN-10000483,"Office Supplies",Envelopes,320.25,139.08
+OFF-PA-10001363,"Office Supplies",Paper,294.72,138.52
+OFF-BI-10004593,"Office Supplies",Binders,1100.4,138.34
+FUR-FU-10001588,Furniture,Furnishings,437.7,138.31
+OFF-PA-10000565,"Office Supplies",Paper,279.9,137.15
+FUR-FU-10003268,Furniture,Furnishings,775.61,135.93
+FUR-BO-10004015,Furniture,Bookcases,3317.72,135.59
+OFF-AR-10002067,"Office Supplies",Art,531.71,135.31
+TEC-PH-10001809,Technology,Phones,1259.58,134.95
+TEC-PH-10002398,Technology,Phones,1070.3,133.79
+TEC-PH-10002262,Technology,Phones,904.55,133.3
+TEC-AC-10004001,Technology,Accessories,386.91,133.27
+OFF-LA-10003498,"Office Supplies",Labels,266.4,133.2
+FUR-FU-10004960,Furniture,Furnishings,390.66,132.82
+TEC-PH-10002597,Technology,Phones,604.75,132.29
+TEC-AC-10000158,Technology,Accessories,899.75,132.08
+TEC-PH-10001615,Technology,Phones,481.23,131.32
+OFF-EN-10003286,"Office Supplies",Envelopes,284.83,131.24
+TEC-PH-10004922,Technology,Phones,1085.24,130.63
+OFF-AP-10003287,"Office Supplies",Appliances,937.85,130.48
+TEC-MA-10001570,Technology,Machines,385.8,130.21
+TEC-AC-10004864,Technology,Accessories,379.7,129.98
+OFF-SU-10002573,"Office Supplies",Supplies,448.77,129.72
+TEC-PH-10001254,Technology,Phones,1727.06,129.53
+OFF-PA-10000380,"Office Supplies",Paper,281.89,127.6
+TEC-AC-10000710,Technology,Accessories,296.64,127.56
+TEC-PH-10003437,Technology,Phones,1229.84,127.48
+OFF-ST-10000943,"Office Supplies",Storage,614.06,127.45
+FUR-FU-10004460,Furniture,Furnishings,479.34,127.3
+TEC-AC-10004114,Technology,Accessories,360.71,127.07
+OFF-AR-10002240,"Office Supplies",Art,573.65,126.81
+OFF-LA-10001158,"Office Supplies",Labels,277.38,126.68
+TEC-AC-10002006,Technology,Accessories,556.45,126.16
+TEC-PH-10001051,Technology,Phones,1119.89,125.99
+OFF-BI-10000069,"Office Supplies",Binders,433.79,125.78
+FUR-CH-10004754,Furniture,Chairs,803.46,125.02
+FUR-FU-10000747,Furniture,Furnishings,1002.36,124.61
+OFF-ST-10001321,"Office Supplies",Storage,518.11,124.13
+FUR-FU-10004845,Furniture,Furnishings,702.44,123.96
+FUR-FU-10000758,Furniture,Furnishings,513.71,123.93
+OFF-PA-10001509,"Office Supplies",Paper,268.5,123.51
+OFF-AR-10001955,"Office Supplies",Art,511.87,123.01
+TEC-PH-10002564,Technology,Phones,689.77,122.96
+OFF-AP-10002350,"Office Supplies",Appliances,516.22,122.84
+TEC-PH-10002807,Technology,Phones,419.23,122.6
+TEC-PH-10004006,Technology,Phones,453.42,122.42
+TEC-AC-10004859,Technology,Accessories,374.07,122.36
+OFF-PA-10002499,"Office Supplies",Paper,244.7,122.35
+TEC-AC-10004901,Technology,Accessories,549.89,120.98
+FUR-FU-10004973,Furniture,Furnishings,678.24,120.95
+OFF-ST-10002276,"Office Supplies",Storage,683.55,120.87
+OFF-PA-10003022,"Office Supplies",Paper,297.12,120.81
+OFF-PA-10002986,"Office Supplies",Paper,280.56,120.77
+TEC-MA-10000029,Technology,Machines,279.96,120.38
+TEC-AC-10000865,Technology,Accessories,708,120.36
+OFF-AR-10001044,"Office Supplies",Art,618.56,120.33
+TEC-AC-10004595,Technology,Accessories,571.2,119.95
+OFF-FA-10004854,"Office Supplies",Fasteners,296.18,119.74
+OFF-AR-10004602,"Office Supplies",Art,533.37,119.55
+OFF-LA-10001297,"Office Supplies",Labels,248.4,119.23
+OFF-ST-10002370,"Office Supplies",Storage,483.41,118.93
+OFF-ST-10001590,"Office Supplies",Storage,517.63,118.62
+TEC-MA-10004255,Technology,Machines,319.92,118.37
+OFF-AR-10003582,"Office Supplies",Art,523.59,118.23
+FUR-CH-10001146,Technology,Phones,2442.02,117.49
+OFF-EN-10001532,"Office Supplies",Envelopes,244.51,117.16
+FUR-CH-10004886,Furniture,Chairs,1775.08,117.06
+FUR-FU-10004270,Furniture,Furnishings,426.56,116.71
+FUR-FU-10003347,Furniture,Furnishings,298.2,116.3
+TEC-MA-10003176,Technology,Machines,1029.6,115.83
+FUR-CH-10000553,Furniture,Chairs,685.59,115.74
+TEC-PH-10001300,Technology,Phones,477.66,115.64
+OFF-EN-10004386,"Office Supplies",Envelopes,259.09,115.15
+OFF-AR-10004042," Executive Red"","Office Supplies",496.25,113.27
+OFF-PA-10002137,"Office Supplies",Paper,262.96,113.2
+TEC-AC-10001266,Technology,Accessories,299,113.1
+OFF-ST-10001328,"Office Supplies",Storage,459.1,112.91
+OFF-BI-10001721,Technology,Accessories,346.36,112.89
+TEC-PH-10002115,Technology,Phones,844.67,112.18
+OFF-PA-10004082,"Office Supplies",Paper,223.44,111.72
+TEC-MA-10001972,Technology,Machines,3210.8,111.68
+OFF-AR-10004022,"Office Supplies",Art,705.21,111.54
+OFF-AR-10002671,"Office Supplies",Paper,1113.02,111.3
+OFF-BI-10000962,"Office Supplies",Binders,410,111.29
+OFF-AP-10004532,"Office Supplies",Appliances,409.6,110.59
+OFF-AP-10002892,"Office Supplies",Appliances,464.2,110.3
+OFF-AR-10000538,"Office Supplies",Art,405.36,109.78
+TEC-PH-10002075,Technology,Phones,377.97,109.61
+OFF-AR-10001915,"Office Supplies",Art,287.97,109.43
+TEC-AC-10004518,Technology,Accessories,280,109.2
+OFF-AR-10004260,"Office Supplies",Art,389.7,109.12
+OFF-PA-10001776,"Office Supplies",Paper,246.58,109.02
+OFF-PA-10002421,"Office Supplies",Paper,284.38,108.34
+FUR-FU-10001591,Furniture,Furnishings,270.84,108.09
+TEC-AC-10000057,Technology,Accessories,557.81,107.66
+OFF-PA-10001685,"Office Supplies",Paper,257.56,107.59
+OFF-EN-10003134,"Office Supplies",Envelopes,247.62,107.46
+FUR-FU-10004748,Furniture,Furnishings,575.46,107.42
+OFF-BI-10004230,"Office Supplies",Binders,466.29,107.07
+OFF-BI-10002854,"Office Supplies",Binders,611.05,106.51
+FUR-BO-10003894,Furniture,Bookcases,802.07,106.47
+OFF-BI-10000315,"Office Supplies",Binders,451.96,106.34
+OFF-PA-10003673,"Office Supplies",Paper,245.44,106.31
+TEC-AC-10000682,Technology,Accessories,321.85,106.18
+FUR-FU-10004071,Furniture,Furnishings,1268.92,106.09
+OFF-AP-10002495,"Office Supplies",Appliances,452.96,105.48
+OFF-BI-10002852,"Office Supplies",Binders,390.58,104.81
+OFF-PA-10002713,"Office Supplies",Paper,227.04,104.44
+OFF-SU-10000898,"Office Supplies",Supplies,458.7,103.42
+OFF-FA-10002280,"Office Supplies",Fasteners,225,102.8
+OFF-LA-10004545,"Office Supplies",Labels,235.56,102.75
+TEC-AC-10002399,Technology,Accessories,361.38,102.71
+OFF-BI-10004828,"Office Supplies",Binders,256.12,102.45
+FUR-FU-10003039,Furniture,Furnishings,500.31,101.79
+OFF-AP-10000159,"Office Supplies",Appliances,558.74,101
+FUR-TA-10002855,Furniture,Tables,2297.54,100.97
+OFF-BI-10004001,"Office Supplies",Binders,487.34,100.88
+OFF-AP-10002765,"Office Supplies",Appliances,386.75,100.66
+FUR-TA-10000688,Furniture,Tables,3354.89,100.21
+TEC-PH-10001918,Technology,Phones,1000.73,100.07
+FUR-FU-10003623,Furniture,Furnishings,508.73,99.58
+TEC-AC-10003289,Technology,Accessories,499.75,99.55
+FUR-FU-10002501,Furniture,Furnishings,409.54,98.97
+OFF-BI-10002225,"Office Supplies",Binders,334.37,98.25
+OFF-PA-10004156,"Office Supplies",Paper,213.19,97.52
+FUR-FU-10002813,Furniture,Furnishings,291.46,97.15
+OFF-PA-10004100,"Office Supplies",Paper,238.46,96.94
+FUR-TA-10004147,Furniture,Tables,1231.56,96.29
+OFF-PA-10000575,"Office Supplies",Paper,218.09,95.27
+TEC-PH-10001552,Technology,Phones,542.98,95.2
+TEC-PH-10004093,"Office Supplies",Storage,846.22,95.2
+FUR-FU-10000397,"Office Supplies",Art,338.98,94.91
+FUR-FU-10000521,Furniture,Furnishings,357.95,94.77
+TEC-PH-10003963,Technology,Phones,1771.51,94.76
+OFF-ST-10002406,"Office Supplies",Storage,353.29,94.61
+OFF-PA-10004911,"Office Supplies",Paper,196.98,94.55
+FUR-FU-10000087,Furniture,Furnishings,308.99,94.52
+OFF-AR-10000588,"Office Supplies",Art,476.16,94.44
+OFF-PA-10000501,"Office Supplies",Paper,231.86,94.36
+OFF-PA-10004665,"Office Supplies",Paper,227.94,94.32
+OFF-PA-10002558,"Office Supplies",Paper,268.24,93.88
+FUR-FU-10004090,Furniture,Furnishings,346.79,93.59
+OFF-AR-10001615,"Office Supplies",Art,460.29,93.25
+OFF-ST-10000464,"Office Supplies",Storage,368.46,93.16
+OFF-PA-10003465,"Office Supplies",Paper,201.08,92.57
+OFF-AR-10004648,"Office Supplies",Art,342.55,92.49
+OFF-AR-10001897,"Office Supplies",Art,402.98,92.11
+OFF-PA-10001281,"Office Supplies",Paper,191.6,91.97
+TEC-AC-10001956,Technology,Accessories,359.7,91.12
+FUR-FU-10002759,Furniture,Furnishings,551.45,91.11
+TEC-AC-10000171,"Office Supplies",Binders,248.29,91.04
+TEC-PH-10003174,Technology,Phones,727.94,90.99
+OFF-AP-10002472,"Office Supplies",Appliances,259.8,90.93
+OFF-BI-10003007,"Office Supplies",Binders,698.04,90.75
+OFF-ST-10004507,"Office Supplies",Storage,428.75,90.72
+OFF-ST-10003638,"Office Supplies",Storage,449.66,90.64
+OFF-PA-10001972,"Office Supplies",Paper,215.14,90.46
+OFF-BI-10002498,"Office Supplies",Binders,377.54,90.27
+OFF-BI-10004308,"Office Supplies",Binders,258.05,90.21
+OFF-PA-10003797,"Office Supplies",Paper,187.92,90.2
+OFF-ST-10001228,"Office Supplies",Storage,462.33,90.04
+TEC-AC-10001874,Technology,Accessories,551.91,89.98
+OFF-AP-10002191,"Office Supplies",Appliances,737.75,89.97
+TEC-PH-10000586,Technology,Phones,475.13,89.75
+OFF-PA-10000740,"Office Supplies",Paper,237.54,89.53
+OFF-EN-10001539,"Office Supplies",Envelopes,196.06,88.85
+OFF-PA-10000019,"Office Supplies",Paper,209.95,88.65
+TEC-AC-10004761,Technology,Accessories,264.44,88.41
+FUR-FU-10000023,Furniture,Furnishings,236.78,88.35
+TEC-PH-10000193,Technology,Phones,496.58,88.28
+OFF-BI-10001510,"Office Supplies",Binders,504.24,88.24
+OFF-EN-10003040,"Office Supplies",Envelopes,240.76,88.19
+FUR-FU-10000672,Furniture,Furnishings,258.72,87.96
+OFF-AP-10004785,"Office Supplies",Appliances,203.94,87.69
+OFF-PA-10003724,"Office Supplies",Paper,184.62,87.69
+TEC-PH-10004912,Technology,Phones,516.53,87.37
+OFF-AP-10002998,"Office Supplies",Appliances,333.56,86.86
+OFF-EN-10000461,"Office Supplies",Envelopes,211.51,86.44
+OFF-SU-10001218,"Office Supplies",Supplies,307.44,86.08
+OFF-PA-10000249,Technology,Phones,196.48,85.84
+OFF-ST-10000615,"Office Supplies",Appliances,347.31,85.81
+OFF-PA-10002005,"Office Supplies",Paper,196.99,85.8
+OFF-FA-10003495,"Office Supplies",Fasteners,192.13,85.73
+OFF-BI-10002794,"Office Supplies",Binders,545.03,85.24
+OFF-BI-10001460,Technology,Accessories,269.67,84.99
+FUR-FU-10004053,Furniture,Furnishings,234.78,84.81
+TEC-AC-10003063,Technology,Accessories,440,84.5
+TEC-PH-10000560,Technology,Phones,7139.8,84
+TEC-PH-10004896,Technology,Phones,515.83,83.97
+TEC-PH-10004667,Technology,Phones,2645.8,83.69
+OFF-AP-10002670,"Office Supplies",Appliances,277.92,83.38
+OFF-PA-10002764,"Office Supplies",Paper,170.1,83.35
+OFF-EN-10003862,"Office Supplies",Envelopes,198.46,83.23
+OFF-PA-10002245,"Office Supplies",Paper,191.36,82.82
+OFF-PA-10003172,"Office Supplies",Paper,176.26,81.91
+OFF-PA-10001166,"Office Supplies",Paper,222.43,81.84
+FUR-FU-10001986,Furniture,Furnishings,581.17,81.57
+OFF-AP-10001492,"Office Supplies",Appliances,343.08,81.55
+FUR-FU-10003577,Furniture,Furnishings,246.65,81.45
+OFF-LA-10002312,"Office Supplies",Labels,177.6,81.4
+OFF-EN-10003567,"Office Supplies",Envelopes,197.82,81.33
+FUR-CH-10004698,Furniture,Chairs,1830.15,80.98
+OFF-PA-10001950,"Office Supplies",Paper,200.16,80.9
+OFF-AP-10001242,"Office Supplies",Appliances,1207.2,80.48
+TEC-PH-10001198,Technology,Phones,709.92,79.87
+OFF-PA-10001725,"Office Supplies",Paper,178.3,79.46
+TEC-PH-10000923,Technology,Phones,239.84,79.3
+OFF-PA-10004101,"Office Supplies",Paper,169.78,78.8
+TEC-AC-10003023,Technology,Accessories,759.94,78.37
+FUR-FU-10002671,Furniture,Furnishings,168.84,78.26
+OFF-ST-10000025,"Office Supplies",Storage,3397.31,78.25
+OFF-ST-10001325,"Office Supplies",Storage,345.84,78.08
+OFF-AR-10002445,"Office Supplies",Art,209.57,77.88
+OFF-PA-10003848,"Office Supplies",Paper,178.85,77.76
+OFF-PA-10004996,"Office Supplies",Paper,181.46,77.63
+OFF-EN-10002592,"Office Supplies",Envelopes,176.02,77.59
+OFF-ST-10000876,"Office Supplies",Storage,345.83,77.13
+FUR-CH-10002774,Furniture,Chairs,764.7,76.98
+OFF-BI-10004236,"Office Supplies",Binders,386.08,76.92
+TEC-PH-10001644,Technology,Phones,335.89,76.77
+OFF-PA-10001870,"Office Supplies",Paper,171.07,76.72
+OFF-AR-10003752,"Office Supplies",Art,182.49,76.46
+OFF-PA-10000477,"Office Supplies",Paper,172.78,76.18
+OFF-PA-10000919,"Office Supplies",Paper,155.04,75.97
+FUR-FU-10001085,Furniture,Furnishings,216.34,75.35
+OFF-PA-10003651,"Office Supplies",Paper,165.66,75.35
+TEC-PH-10001700,Technology,Phones,1135.03,75.23
+OFF-LA-10004093,"Office Supplies",Labels,168.13,75.15
+OFF-AP-10000026,"Office Supplies",Appliances,1243.79,74.99
+FUR-FU-10001889,Furniture,Furnishings,265.1,74.8
+OFF-LA-10000414,"Office Supplies",Labels,155.25,74.52
+OFF-PA-10002160,"Office Supplies",Paper,174.56,74.33
+FUR-FU-10002445,Furniture,Furnishings,216.14,73.94
+OFF-EN-10004459,"Office Supplies",Envelopes,163.5,73.88
+OFF-BI-10001078,Furniture,Furnishings,175.39,73.87
+FUR-BO-10003441,Furniture,Bookcases,1473.3,73.72
+OFF-LA-10002043,"Office Supplies",Labels,159.39,73.28
+FUR-CH-10002758,Furniture,Chairs,1268.7,73.19
+FUR-FU-10003374,Furniture,Furnishings,463.8,73.02
+OFF-PA-10001457,"Office Supplies",Paper,186.5,72.79
+TEC-AC-10002331,Technology,Accessories,232.76,72.57
+OFF-SU-10002537,"Office Supplies",Supplies,306.9,72.22
+FUR-FU-10004006,Furniture,Furnishings,673.87,72.08
+OFF-AR-10000658,"Office Supplies",Art,263.34,72.07
+OFF-BI-10001294,"Office Supplies",Binders,271.44,71.96
+FUR-FU-10004351,Furniture,Furnishings,202.59,71.69
+OFF-PA-10002689,"Office Supplies",Paper,155.52,71.28
+FUR-FU-10003799,Furniture,Furnishings,316.48,71.12
+OFF-PA-10002195,"Office Supplies",Paper,168.46,71.04
+OFF-PA-10001804,"Office Supplies",Paper,164.33,70.54
+OFF-AR-10001725,"Office Supplies",Art,297.99,70.48
+OFF-PA-10002968,"Office Supplies",Paper,169.02,70.35
+TEC-AC-10004814,Technology,Accessories,170.97,70.1
+OFF-AR-10002956,"Office Supplies",Art,444.6,69.99
+TEC-PH-10000439,Technology,Phones,495.88,69.98
+OFF-PA-10000061,"Office Supplies",Paper,150.34,69.47
+FUR-FU-10004245,Furniture,Furnishings,194.69,68.95
+OFF-PA-10004735,"Office Supplies",Paper,146.45,68.95
+OFF-LA-10001569,"Office Supplies",Labels,176.29,68.72
+TEC-PH-10002085,Technology,Phones,752.29,68.63
+FUR-FU-10004093,Furniture,Furnishings,260.15,68.46
+OFF-PA-10001934,"Office Supplies",Paper,147.74,68.43
+OFF-PA-10002262,"Office Supplies",Paper,142.56,68.43
+OFF-AR-10003478,"Office Supplies",Art,219.78,68.38
+OFF-AR-10004456,"Office Supplies",Art,234.24,67.93
+OFF-SU-10000381,"Office Supplies",Supplies,279.3,67.78
+OFF-AP-10000696,"Office Supplies",Appliances,357.62,67.77
+OFF-ST-10002214,"Office Supplies",Storage,318.38,67.74
+OFF-ST-10000107,"Office Supplies",Storage,477.3,67.71
+OFF-PA-10001712,"Office Supplies",Paper,149.85,67.43
+OFF-PA-10004888,"Office Supplies",Paper,151.63,67.39
+OFF-AP-10000692,"Office Supplies",Appliances,344.59,67.3
+TEC-MA-10001016,Technology,Machines,575.82,67.18
+TEC-AC-10004633,"Office Supplies",Paper,184.54,67.1
+OFF-PA-10002666,"Office Supplies",Paper,166.7,67.04
+TEC-AC-10003447,Technology,Accessories,291.85,66.97
+OFF-BI-10003910,"Office Supplies",Binders,215.11,66.69
+TEC-AC-10003280,Technology,Accessories,563.81,66.28
+OFF-PA-10001184,"Office Supplies",Paper,138.74,65.54
+FUR-FU-10001934,Furniture,Furnishings,251.76,65.46
+OFF-PA-10003591,"Office Supplies",Paper,151.54,65.44
+OFF-EN-10001099,"Office Supplies",Envelopes,160.39,65.33
+OFF-PA-10000726,"Office Supplies",Paper,160.34,65.14
+OFF-PA-10000143,"Office Supplies",Paper,144.67,65.05
+OFF-EN-10001219,"Office Supplies",Envelopes,146.69,64.86
+TEC-PH-10002923,Technology,Phones,739.8,64.73
+TEC-AC-10003038,Technology,Accessories,477.93,64.71
+TEC-MA-10000423,Technology,Machines,204.51,64.65
+OFF-PA-10001667,"Office Supplies",Paper,169.83,64.58
+OFF-LA-10000240,"Office Supplies",Labels,153.51,64.4
+OFF-BI-10001628,"Office Supplies",Binders,287.87,64.14
+FUR-CH-10003061,"Office Supplies",Fasteners,1448.84,63.89
+OFF-PA-10004983,"Office Supplies",Paper,141.26,63.76
+OFF-EN-10002986,Furniture,Bookcases,176.29,63.75
+OFF-ST-10000760,"Office Supplies",Storage,301.97,63.75
+OFF-AR-10002952,"Office Supplies",Art,293.7,63.01
+OFF-PA-10001639,"Office Supplies",Paper,143.86,62.99
+TEC-AC-10001998,"Office Supplies",Storage,207.9,62.77
+OFF-ST-10003455,"Office Supplies",Storage,338.12,62.66
+OFF-AP-10004336,"Office Supplies",Appliances,546.82,61.52
+OFF-PA-10000743,"Office Supplies",Paper,130.93,61.46
+FUR-FU-10001095,Furniture,Furnishings,455.46,61.43
+OFF-EN-10001990,"Office Supplies",Envelopes,130.64,61.4
+FUR-FU-10002157,Furniture,Furnishings,156.8,61.15
+OFF-PA-10001838,"Office Supplies",Paper,132.89,60.92
+OFF-PA-10001800,"Office Supplies",Paper,145.15,60.91
+OFF-PA-10004285,"Office Supplies",Paper,133.6,60.65
+OFF-PA-10004451,"Office Supplies",Paper,134.78,60.65
+OFF-PA-10000300,"Office Supplies",Paper,155.84,60.54
+OFF-AP-10004859,"Office Supplies",Appliances,432.43,60.42
+OFF-PA-10002893,"Office Supplies",Paper,125.84,60.4
+TEC-MA-10003173,Technology,Machines,131.1,60.31
+OFF-FA-10000624,"Office Supplies",Fasteners,128.16,60.14
+TEC-PH-10001299,Technology,Phones,1679.89,60
+OFF-BI-10000320,"Office Supplies",Binders,172.69,59.78
+OFF-AR-10004344,"Office Supplies",Art,330.92,59.59
+OFF-PA-10004041,"Office Supplies",Paper,161.32,59.57
+OFF-ST-10000136,"Office Supplies",Storage,341.42,59.55
+OFF-ST-10004946,"Office Supplies",Storage,259.68,59.51
+OFF-PA-10000312,"Office Supplies",Paper,182.72,59.38
+OFF-PA-10002036,"Office Supplies",Paper,138.67,59.36
+OFF-AR-10002818,"Office Supplies",Art,197.82,59.35
+OFF-FA-10000621,"Office Supplies",Fasteners,139.62,59.28
+FUR-FU-10003464,Furniture,Furnishings,210.91,59.22
+OFF-PA-10002250,"Office Supplies",Paper,138.53,59.17
+OFF-BI-10001191,"Office Supplies",Binders,422.64,59.07
+OFF-ST-10002444,"Office Supplies",Storage,235.78,58.94
+OFF-AR-10003179,"Office Supplies",Art,229.57,58.67
+OFF-BI-10004728,"Office Supplies",Binders,212.08,58.51
+TEC-PH-10001433,Technology,Phones,882.1,58.46
+TEC-AC-10002305,Technology,Accessories,324,58.32
+OFF-AP-10000358,"Office Supplies",Binders,436.13,58.28
+FUR-FU-10000771,Furniture,Furnishings,138.16,58.03
+OFF-ST-10000344,"Office Supplies",Storage,276.66,58.02
+TEC-AC-10002345,Technology,Accessories,275.5,58
+OFF-PA-10004438,"Office Supplies",Paper,122.8,57.72
+OFF-BI-10004965,"Office Supplies",Binders,184,57.5
+TEC-AC-10000991,Technology,Accessories,582.68,57.33
+OFF-AP-10004708,"Office Supplies",Appliances,867.77,57.09
+OFF-BI-10000829,"Office Supplies",Binders,141.88,57.02
+OFF-PA-10004621,"Office Supplies",Paper,141.26,57.02
+OFF-PA-10001569,Furniture,Chairs,120.53,56.51
+FUR-FU-10003975,Furniture,Furnishings,563.03,56.3
+OFF-PA-10001534,"Office Supplies",Paper,127.01,56.25
+OFF-ST-10001172,"Office Supplies",Storage,407.01,56.23
+FUR-FU-10000246,Furniture,Furnishings,244.4,56.21
+OFF-PA-10002870,"Office Supplies",Paper,124.8,56.16
+FUR-FU-10002597,Furniture,Furnishings,136.34,56.12
+FUR-FU-10002088,Furniture,Furnishings,170.62,56.04
+TEC-MA-10002790,Technology,Machines,479.99,56
+OFF-PA-10004040,"Office Supplies",Paper,129.17,55.97
+FUR-FU-10003691,Furniture,Furnishings,180.31,55.82
+OFF-BI-10003460,"Office Supplies",Binders,137.53,55.54
+OFF-AP-10001563,"Office Supplies",Appliances,952.17,55.38
+OFF-AP-10003099,"Office Supplies",Appliances,197.72,55.36
+OFF-AR-10001683,"Office Supplies",Paper,171.39,55.36
+OFF-PA-10000246,"Office Supplies",Paper,136.82,55.33
+OFF-ST-10004258,"Office Supplies",Storage,224.66,55.31
+OFF-BI-10003982,"Office Supplies",Binders,583.64,55.25
+OFF-BI-10002215,"Office Supplies",Binders,143.42,55.24
+FUR-FU-10003976,Furniture,Furnishings,196.25,55.1
+OFF-LA-10002945,"Office Supplies",Labels,153.72,55.06
+TEC-PH-10000702,Technology,Phones,197.8,54.85
+FUR-TA-10001086,Furniture,Tables,2979,54.72
+OFF-LA-10004484,"Office Supplies",Labels,137.12,54.6
+FUR-CH-10002961,Furniture,Chairs,1437.48,54.59
+OFF-PA-10001593,"Office Supplies",Paper,136.34,54.12
+OFF-PA-10000174,"Office Supplies",Paper,152.14,54.07
+OFF-AR-10003514,"Office Supplies",Art,171.14,53.81
+OFF-PA-10001471,"Office Supplies",Paper,116.96,53.8
+TEC-AC-10001383,Technology,Accessories,364.85,53.73
+OFF-AP-10001962,"Office Supplies",Appliances,229.89,53.7
+OFF-AR-10001860,"Office Supplies",Art,173.5,53.58
+OFF-ST-10001031,"Office Supplies",Storage,270.25,53.4
+TEC-AC-10003499,Technology,Accessories,194.54,53.27
+OFF-AP-10003217,"Office Supplies",Appliances,1524.53,53.03
+OFF-LA-10003766,"Office Supplies",Labels,110.25,52.92
+OFF-PA-10003363,"Office Supplies",Paper,110.16,52.88
+FUR-FU-10000794,Furniture,Furnishings,155.38,52.83
+TEC-AC-10004708,Technology,Accessories,251.4,52.79
+TEC-AC-10004420,Technology,Accessories,479.72,52.77
+OFF-PA-10000349,"Office Supplies",Paper,118.52,52.54
+FUR-FU-10000010,Furniture,Furnishings,175.94,52.48
+FUR-FU-10000719,Furniture,Furnishings,145.69,52.45
+OFF-BI-10004233,"Office Supplies",Binders,310.21,52.45
+TEC-AC-10000303,Technology,Accessories,239.94,52.39
+OFF-EN-10001141,"Office Supplies",Envelopes,125.17,52.37
+TEC-PH-10004700,Technology,Phones,127.87,52.35
+OFF-PA-10002479,"Office Supplies",Paper,139.39,52.27
+OFF-EN-10002312,"Office Supplies",Envelopes,108.68,52.12
+OFF-ST-10003996,"Office Supplies",Storage,218.42,52.03
+OFF-PA-10003883,"Office Supplies",Paper,119.21,52.01
+OFF-LA-10002475,"Office Supplies",Labels,121.35,51.61
+OFF-LA-10001934,"Office Supplies",Labels,109.65,51.54
+OFF-ST-10002205,"Office Supplies",Storage,262.67,51.42
+OFF-FA-10003112,"Office Supplies",Fasteners,146.75,51.28
+FUR-FU-10000305,Furniture,Furnishings,468.47,51.11
+OFF-ST-10004186,"Office Supplies",Storage,2552.54,51.05
+OFF-ST-10000649,"Office Supplies",Storage,251.2,51.03
+OFF-PA-10000289,"Office Supplies",Paper,111.46,50.8
+OFF-BI-10004970,"Office Supplies",Binders,147.03,50.72
+OFF-AP-10003884,"Office Supplies",Appliances,180.66,50.58
+OFF-AP-10001366,"Office Supplies",Appliances,186.66,50.4
+TEC-AC-10002335,Technology,Accessories,503.86,50.39
+TEC-PH-10002350,Technology,Phones,251.91,50.38
+OFF-ST-10000885,"Office Supplies",Storage,201.45,50.36
+OFF-PA-10002464,"Office Supplies",Paper,106.35,50.34
+FUR-FU-10001940,Furniture,Furnishings,219.7,50.31
+OFF-BI-10000174,"Office Supplies",Binders,191.98,50.23
+OFF-BI-10004826,"Office Supplies",Binders,204.72,50.19
+OFF-SU-10004884,"Office Supplies",Supplies,195.05,49.86
+OFF-AR-10001468,"Office Supplies",Art,209.66,49.8
+OFF-AR-10003727,"Office Supplies",Art,254.85,49.78
+TEC-MA-10003674,Technology,Machines,597.13,49.76
+OFF-BI-10001524,"Office Supplies",Binders,780.46,49.51
+OFF-PA-10000587,"Office Supplies",Binders,106.29,49.5
+FUR-FU-10000221,Furniture,Furnishings,176.78,49.38
+OFF-BI-10001922,"Office Supplies",Binders,153.25,49.36
+OFF-LA-10001641,"Office Supplies",Labels,106.47,49.14
+FUR-CH-10000422,Furniture,Chairs,2647.81,49.13
+OFF-PA-10002606,"Office Supplies",Paper,124.61,49.1
+OFF-PA-10004569,"Office Supplies",Paper,109.58,49.08
+OFF-ST-10000129,"Office Supplies",Storage,1287.95,48.85
+OFF-LA-10001613,"Office Supplies",Labels,113.47,48.84
+FUR-FU-10001037,Furniture,Furnishings,168.74,48.82
+OFF-AP-10001303,"Office Supplies",Appliances,147.26,48.76
+OFF-AR-10002656,"Office Supplies",Art,149.63,48.63
+FUR-BO-10003660,Furniture,Bookcases,729.23,48.62
+OFF-PA-10001994,"Office Supplies",Paper,121.39,48.56
+OFF-BI-10003684,"Office Supplies",Binders,532.16,48.38
+TEC-MA-10002109,Technology,Machines,449.97,48
+OFF-AP-10003266,"Office Supplies",Appliances,151.06,47.98
+OFF-PA-10000327,"Office Supplies",Paper,113.85,47.94
+OFF-ST-10002352,"Office Supplies",Storage,225.04,47.88
+OFF-BI-10004654,Furniture,Chairs,214.57,47.87
+FUR-FU-10001918,Furniture,Furnishings,137.17,47.73
+OFF-PA-10000304,"Office Supplies",Binders,121.82,47.69
+FUR-FU-10004963,Furniture,Furnishings,159.25,47.6
+OFF-PA-10002246,"Office Supplies",Paper,119.97,47.6
+FUR-CH-10002780,Furniture,Chairs,600.47,47.31
+TEC-AC-10001552,Technology,Accessories,1154.66,47.28
+OFF-PA-10000791,"Office Supplies",Paper,115.43,47.22
+OFF-PA-10002615,"Office Supplies",Paper,106.72,47.19
+OFF-PA-10000210,"Office Supplies",Paper,99.9,46.95
+OFF-PA-10004255,"Office Supplies",Paper,97.2,46.66
+OFF-PA-10004782,"Office Supplies",Paper,97.2,46.66
+FUR-FU-10001487,Furniture,Furnishings,160.54,46.56
+OFF-PA-10002787,"Office Supplies",Paper,120.53,46.4
+FUR-FU-10000293,Furniture,Furnishings,1431.94,46.33
+OFF-PA-10000520,"Office Supplies",Paper,110.16,46.14
+OFF-PA-10003072,"Office Supplies",Paper,110.16,46.14
+OFF-BI-10002072,"Office Supplies",Binders,119.92,46.06
+TEC-PH-10004100,Technology,Phones,395.78,46.05
+TEC-PH-10003357,Technology,Phones,596.62,45.89
+TEC-PH-10001536,Technology,Phones,234.46,45.87
+OFF-SU-10004261,"Office Supplies",Supplies,217.22,45.86
+OFF-PA-10003845,"Office Supplies",Paper,92.48,45.32
+OFF-PA-10001745,"Office Supplies",Paper,108.42,44.99
+TEC-MA-10003066,Technology,Machines,336.51,44.87
+OFF-ST-10001291,"Office Supplies",Storage,229.98,44.81
+FUR-FU-10001706,Furniture,Chairs,115.19,44.72
+FUR-FU-10002960,Furniture,Furnishings,135.65,44.59
+OFF-AR-10004691,"Office Supplies",Art,171.04,44.47
+TEC-PH-10000675,Technology,Phones,590.33,44.27
+FUR-FU-10003724,Furniture,Furnishings,279.56,44.19
+OFF-ST-10003722,"Office Supplies",Storage,193.61,44.19
+FUR-CH-10002304,Furniture,Chairs,901.51,44.17
+OFF-PA-10004610,"Office Supplies",Paper,105.29,44.08
+OFF-PA-10001892,"Office Supplies",Paper,110.02,43.78
+OFF-AP-10003040,"Office Supplies",Appliances,665.68,43.71
+OFF-AR-10000034,"Office Supplies",Art,118.72,43.71
+OFF-PA-10003893,"Office Supplies",Paper,109.57,43.66
+OFF-PA-10001937,"Office Supplies",Paper,124.42,43.55
+OFF-PA-10002586,"Office Supplies",Paper,101.59,43.53
+OFF-BI-10003476,"Office Supplies",Binders,135.8,43.43
+OFF-PA-10001526,"Office Supplies",Paper,114.54,43.43
+OFF-LA-10002034,"Office Supplies",Labels,88.38,43.31
+OFF-FA-10000134,"Office Supplies",Fasteners,139.44,43.23
+TEC-MA-10002937,Technology,Machines,1007.98,43.2
+TEC-AC-10000580,Technology,Accessories,1039.87,43.19
+OFF-LA-10002195,"Office Supplies",Labels,91.17,43.12
+TEC-PH-10000149,Technology,Phones,426.93,43.09
+OFF-AR-10002399,"Office Supplies",Art,110.76,42.9
+OFF-AR-10001958,"Office Supplies",Art,275.08,42.79
+FUR-FU-10003142,Furniture,Furnishings,152.06,42.77
+OFF-LA-10000305,"Office Supplies",Labels,97.02,42.59
+TEC-AC-10004510,Technology,Accessories,778.74,42.54
+OFF-LA-10002787,"Office Supplies",Labels,89.25,42.45
+TEC-AC-10004209,Technology,Accessories,136.28,42.42
+OFF-EN-10001028,"Office Supplies",Envelopes,100.63,42.41
+OFF-AP-10004249,"Office Supplies",Appliances,234.61,42.37
+OFF-BI-10000404,"Office Supplies",Binders,115.24,42.31
+FUR-FU-10002456,Furniture,Furnishings,154.34,42.3
+FUR-FU-10000409,Furniture,Furnishings,98.87,42.24
+OFF-BI-10001900,"Office Supplies",Binders,124.59,42.05
+TEC-AC-10003614,Technology,Accessories,150.67,41.96
+FUR-FU-10003731,Furniture,Furnishings,149.7,41.92
+FUR-FU-10003878,Furniture,Furnishings,253.65,41.87
+TEC-PH-10003988,"Office Supplies",Binders,261.6,41.86
+OFF-LA-10000407,"Office Supplies",Labels,95.62,41.83
+OFF-AP-10003860,"Office Supplies",Appliances,244.29,41.64
+OFF-BI-10001617,"Office Supplies",Binders,184.05,41.57
+OFF-AP-10002082,"Office Supplies",Appliances,239.58,41.38
+OFF-LA-10003148,"Office Supplies",Labels,95.76,41.33
+OFF-PA-10003177,"Office Supplies",Binders,98.5,41.21
+OFF-BI-10003707,"Office Supplies",Binders,354.03,41.2
+FUR-CH-10003981,Furniture,Chairs,4420.06,41.12
+OFF-PA-10003309,"Office Supplies",Paper,104.98,40.95
+OFF-PA-10002709,"Office Supplies",Paper,89.7,40.9
+OFF-PA-10004675,Furniture,Furnishings,99.06,40.77
+OFF-PA-10002751,"Office Supplies",Paper,89.7,40.36
+OFF-PA-10003001,"Office Supplies",Paper,85.5,40.35
+TEC-PH-10004959,Technology,Phones,341.67,40.2
+OFF-BI-10000088,"Office Supplies",Binders,241.56,39.97
+OFF-BI-10002437,"Office Supplies",Binders,110.02,39.88
+OFF-ST-10004950,"Office Supplies",Storage,652.62,39.84
+OFF-LA-10003223,"Office Supplies",Labels,87.4,39.82
+FUR-FU-10002379,Furniture,Furnishings,331.76,39.81
+FUR-FU-10002396,Furniture,Furnishings,171.09,39.75
+OFF-PA-10003349,"Office Supplies",Paper,95.9,39.72
+OFF-LA-10000121,"Office Supplies",Labels,90.72,39.69
+OFF-PA-10001260,"Office Supplies",Paper,88.11,39.65
+OFF-ST-10001580,"Office Supplies",Storage,179.76,39.55
+OFF-EN-10002600,"Office Supplies",Envelopes,93.22,39.53
+OFF-PA-10004971,"Office Supplies",Paper,92.48,39.42
+OFF-BI-10003984,"Office Supplies",Binders,704.69,39.37
+OFF-AR-10004062,"Office Supplies",Art,157.2,39.3
+OFF-PA-10002947,"Office Supplies",Paper,94.86,39.28
+FUR-FU-10000732,Furniture,Furnishings,133.14,39.19
+OFF-PA-10002365,"Office Supplies",Paper,89.42,38.88
+OFF-AR-10003045,"Office Supplies",Art,90.55,38.81
+OFF-BI-10003963,"Office Supplies",Binders,100.46,38.73
+FUR-FU-10002554,Furniture,Furnishings,167.93,38.62
+OFF-PA-10000029,"Office Supplies",Paper,95.9,38.62
